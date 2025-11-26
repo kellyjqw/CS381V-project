@@ -1,3 +1,5 @@
+''' documentation see README'''
+
 import ast
 import torch
 from torchvision.io import read_video
