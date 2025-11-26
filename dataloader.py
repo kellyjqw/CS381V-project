@@ -11,19 +11,21 @@ class HowToChangeDataLoader(Dataset):
             print("only test mode is implemented now for dataloader!")
             return
         # self.base_path = "HowToChange"
-        self.base_path = "test_dataset"
-        self.video_path = os.path.join(self.base_path, "clips_no_audio")
+        self.base_path = "data_samples"
+        self.video_path = os.path.join(self.base_path, "clips")
         self.split = split
         self.annotations = pd.read_csv(os.path.join(self.base_path, f"{self.split}.csv"))
-        self.annotations["end_state_intervals"] = self.annotations["end_state"].apply(ast.literal_eval)
-
+        self.annotations["end_intervals"] = self.annotations["end_state"].apply(
+            lambda s: ast.literal_eval(s)
+        )
     def __len__(self):
         return len(self.annotations)
         
     def __getitem__(self, idx):
         row = self.annotations.iloc[idx]
         video_name = row["video_name"]
-        end_state_str = row["end_state"]
+        end_intervals = row["end_intervals"]  # already list of [start, end]
+        print("end_intervals", end_intervals)
         osc = row["osc"]
         verb, noun = osc.split("_", 1)  
 
@@ -54,3 +56,19 @@ class HowToChangeDataLoader(Dataset):
             "verb": verb, 
             "noun": noun
         }
+
+if __name__ == "__main__":
+    torch.set_printoptions(threshold=torch.inf) 
+    dataloader = HowToChangeDataLoader(test_mode=True)
+    for sample in dataloader:
+        frames = sample["frames"]          # [T, C, H, W]
+        T, C, H, W = frames.shape
+        print("Single sample shape:", frames.shape)
+        print("Resolution (H, W):", H, W)
+        print('fps', sample['fps'])
+        print('osc', sample['osc'])
+        print('verb', sample['verb'])
+        print('noun', sample['noun'])
+        # print(sample['labels'])
+
+
