@@ -1,26 +1,56 @@
+import ast
 import torch
+from torchvision.io import read_video
 import pandas as pd
 from torch.utils.data import Dataset
-from torch.utils.data.dataloader import default_collate
 import os
 
 class HowToChangeDataLoader(Dataset):
-    def __init__(self,split='train'):
-        pass
+    def __init__(self,split='train', test_mode=False):
+        if not test_mode:
+            print("only test mode is implemented now for dataloader!")
+            return
+        # self.base_path = "HowToChange"
+        self.base_path = "test_dataset"
+        self.video_path = os.path.join(self.base_path, "clips_no_audio")
+        self.split = split
+        self.annotations = pd.read_csv(os.path.join(self.base_path, f"{self.split}.csv"))
+        self.annotations["end_state_intervals"] = self.annotations["end_state"].apply(ast.literal_eval)
+
     def __len__(self):
-        pass
+        return len(self.annotations)
+        
     def __getitem__(self, idx):
-        output_dict = {
-            'video_features': video_features.squeeze(1),
-            'video_padding_mask': torch.zeros(video_features.size(0), dtype=torch.bool),
-            'narration_features': padded_narration_features.squeeze(1),
-            'narration_padding_mask': narration_padding_mask,
-            'starts': padded_starts.squeeze(1),
-            'ends': padded_ends.squeeze(1),
-            'metadata' : metadata
+        row = self.annotations.iloc[idx]
+        video_name = row["video_name"]
+        end_state_str = row["end_state"]
+        osc = row["osc"]
+        verb, noun = osc.split("_", 1)  
+
+        video_file = os.path.join(self.video_path, f"{video_name}.mp4")
+        # video: (T, H, W, C), audio: ignored, info: dict with fps
+        video, _, info = read_video(video_file, pts_unit="sec")
+        # Convert to (T, C, H, W), uint8
+        frames = video.permute(0, 3, 1, 2) 
+        num_frames = frames.shape[0]
+
+        fps = info.get("video_fps", None)
+        if fps is None or fps == 0:
+            duration = float(row["duration"])
+            fps = num_frames / duration
+
+        labels = []
+        for i in range(num_frames):
+            t = i / fps  # seconds from clip start
+            is_end = any((t >= s) and (t <= e) for (s, e) in end_intervals)
+            labels.append(1 if is_end else 0)
+        labels = torch.tensor(labels)
+
+        return {
+            "fps": fps, 
+            "frames": frames,   # Tensor: [T, C, H, W]
+            "labels": labels,   # Tensor: [T]
+            "osc": osc,
+            "verb": verb, 
+            "noun": noun
         }
-
-        output_dict['mean'] = (output_dict['starts'] + output_dict['ends']) / 2
-        output_dict['duration'] = torch.abs(output_dict['ends']-output_dict['starts'])
-
-        return output_dict
