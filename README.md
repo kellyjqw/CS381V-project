@@ -2,6 +2,7 @@ cropped clips: https://drive.google.com/drive/folders/1ujTZVVF3wu4D-EVI4HizOYifX
 
 dataloader usage:
 ```python
+    # path_to_cropped_clips_dir: subdirectory name under HowToChange
     dataloader = HowToChangeDataLoader(path_to_cropped_clips_dir, split='train', test_mode=False)
 
     for data in dataloader:
