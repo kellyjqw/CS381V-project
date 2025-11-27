@@ -1,7 +1,8 @@
-dataset usage:
+cropped clips: https://drive.google.com/drive/folders/1ujTZVVF3wu4D-EVI4HizOYifXGznEsB5?usp=drive_link 
+
+dataloader usage:
 ```python
-    # currently only test_mode and train split supported
-    dataloader = HowToChangeDataLoader(split='train', test_mode=True)
+    dataloader = HowToChangeDataLoader(path_to_cropped_clips_dir, split='train', test_mode=False)
 
     for data in dataloader:
         data["frames"] #Tensor(T, C, H, W), video frames in 224*224 resolution

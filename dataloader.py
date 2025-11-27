@@ -8,13 +8,13 @@ from torch.utils.data import Dataset
 import os
 
 class HowToChangeDataLoader(Dataset):
-    def __init__(self,split='train', test_mode=False):
-        if not test_mode:
-            print("only test mode is implemented now for dataloader!")
-            return
-        # self.base_path = "HowToChange"
-        self.base_path = "data_samples"
-        self.video_path = os.path.join(self.base_path, "clips")
+    def __init__(self, clip_path, split='train', test_mode=False):
+        if test_mode:
+            self.base_path = "data_samples"
+            self.video_path = os.path.join(self.base_path, "clips")
+        else:
+            self.base_path = "HowToChange"
+            self.video_path = os.path.join(self.base_path, clip_path)
         self.split = split
         self.annotations = pd.read_csv(os.path.join(self.base_path, f"{self.split}.csv"))
         self.annotations["end_intervals"] = self.annotations["end_state"].apply(
