@@ -77,12 +77,6 @@ class HowToChangeDataLoader(Dataset):
 
         fps = info.get("video_fps", 30.0)
         binary_labels = []
-        for i in range(num_frames):
-            t = i / fps
-            is_end = any((t >= s) and (t <= e) for (s, e) in end_intervals)
-            binary_labels.append(1 if is_end else 0)
-        binary_labels = torch.tensor(binary_labels)
-        binary_labels = []
         tertiary_labels = []
         four_labels = []
         for i in range(num_frames):
