@@ -24,11 +24,13 @@ import os
 
 
 class HowToChangeDataLoader(Dataset):
-    def __init__(self, split='train', test_mode=False):
-        if not test_mode:
-            print("Note: Currently utilizing test_mode for online simulation.")
-        self.base_path = "data_samples"
-        self.video_path = os.path.join(self.base_path, "clips")
+    def __init__(self, clip_path, split='train', test_mode=False):
+        if test_mode:
+            self.base_path = "data_samples"
+            self.video_path = os.path.join(self.base_path, "clips")
+        else:
+            self.base_path = "HowToChange"
+            self.video_path = os.path.join(self.base_path, clip_path)
         self.split = split
         csv_path = os.path.join(self.base_path, f"{self.split}.csv")
         if not os.path.exists(csv_path):
@@ -101,6 +103,7 @@ class HowToChangeDataLoader(Dataset):
         tertiary_labels = torch.tensor(tertiary_labels)
         four_labels = torch.tensor(four_labels)
 
+
         return {
             "fps": fps, 
             "frames": frames,
@@ -111,6 +114,8 @@ class HowToChangeDataLoader(Dataset):
             "verb": verb, 
             "noun": noun
         }
+
+
     
 def collate_fn(batch):
     # batch is a list of dicts from __getitem__
