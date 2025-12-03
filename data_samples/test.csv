@@ -1,4 +1,713 @@
-video_name,video_id,start_time,duration,initial_state,transitioning_state,end_state,osc,is_novel_osc
-WCXnawtLaQw_st51.0_dur40.0,WCXnawtLaQw,51,40,"[[0, 13.02314], [13.82312, 15.48971]]","[[15.55637, 18.14173], [25.62308, 28.12489], [30.24844, 35.36066], [39.1124, 40.00798]]",[],rolling_pasta,FALSE
-fxrazSaidAw_st137.0_dur63.0,fxrazSaidAw,137,63,[],"[[0, 9.09262], [19.79758, 32.77285]]","[[32.77285, 36.28454], [40.729, 63.01896]]",rolling_pasta,FALSE
-WB8o7y_BxYM_st390.0_dur40.0,WB8o7y_BxYM,390,40,[],"[[0, 7.76766]]","[[7.80937, 36.6752]]",rolling_pasta,FALSE
+video_name,video_id,start_time,duration,initial_state,transitioning_state,end_state,osc,is_novel_osc,split
+WOQxVNAVwGk_st253.0_dur40.0,WOQxVNAVwGk,253.0,40.0,"[[0, 1.398]]","[[1.47846, 5.448]]","[[5.52871, 40.007]]",rolling_pasta,False,test
+k1rMwIt3hYo_st361.0_dur40.0,k1rMwIt3hYo,361.0,40.0,[],"[[0, 16.6416]]","[[16.6816, 24.2279], [26.08039, 30.94614], [36.36024, 40.00798]]",rolling_pasta,False,test
+lUBEmi0kJ34_st376.0_dur40.0,lUBEmi0kJ34,376.0,40.0,"[[0, 2.01326], [3.36352, 8.96818]]","[[12.04778, 31.72755]]","[[31.76755, 40.00798]]",squeezing_garlic,False,test
+tEc1P55G0I8_st218.0_dur40.0,tEc1P55G0I8,218.0,40.0,[],"[[17.83518, 20.43021]]","[[20.47192, 40.04]]",squeezing_garlic,False,test
+VYkqjHmGumk_st77.0_dur40.0,VYkqjHmGumk,77.0,40.0,"[[13.48387, 18.71676]]","[[18.71676, 25.83372]]",[],mashing_butter,False,test
+Erp4yysjDCA_st51.0_dur40.0,Erp4yysjDCA,51.0,40.0,"[[6.95169, 17.68857]]","[[17.72193, 37.00987]]","[[37.04323, 40.00798]]",mashing_butter,False,test
+wBW2jzkXrLk_st24.0_dur40.0,wBW2jzkXrLk,24.0,40.0,"[[0, 6.11871]]","[[9.25233, 25.97668]]","[[26.07677, 40.00798]]",roasting_peanut,False,test
+JQrgg2fynwo_st15.0_dur40.0,JQrgg2fynwo,15.0,40.0,[],"[[0, 39.848]]",[],roasting_peanut,False,test
+gb86FsJaALs_st26.0_dur51.0,gb86FsJaALs,26.0,51.0,"[[0, 26.18009]]","[[26.20331, 51.01763]]",[],peeling_apple,False,test
+JQb9nFIcufs_st60.0_dur40.0,JQb9nFIcufs,60.0,40.0,[],"[[13.54855, 28.19037]]","[[28.59037, 40.00798]]",peeling_apple,False,test
+XlQc0H0ia_s_st0.0_dur40.0,XlQc0H0ia_s,0.0,40.0,[],"[[16.42058, 18.87848]]","[[18.92019, 22.53871]]",chopping_bacon,False,test
+TqoPFxa-ciY_st130.0_dur40.0,TqoPFxa-ciY,130.0,40.0,[],"[[16.00025, 20.71578]]","[[20.74914, 22.41443]]",chopping_bacon,False,test
+MMQ5OkfCKyA_st95.0_dur40.0,MMQ5OkfCKyA,95.0,40.0,"[[16.32993, 16.69659]]","[[16.72992, 17.84145], [19.04142, 19.50808]]","[[31.61504, 32.88168], [34.41496, 35.51494]]",peeling_garlic,False,test
+oU2BEPC_q2M_st52.0_dur40.0,oU2BEPC_q2M,52.0,40.0,"[[11.55414, 16.684]]","[[16.72442, 24.806]]","[[24.846, 26.392]]",peeling_garlic,False,test
+PmPx7RyidAg_st145.0_dur40.0,PmPx7RyidAg,145.0,40.0,[],"[[24.17984, 38.664]]","[[39.368, 40.00798]]",peeling_zucchini,False,test
+IuBUzDYLNhU_st90.0_dur40.0,IuBUzDYLNhU,90.0,40.0,[],"[[0, 9.624]]","[[9.65736, 11.07475], [11.54185, 40]]",peeling_zucchini,False,test
+LXWkY5ai1xc_st65.0_dur40.0,LXWkY5ai1xc,65.0,40.0,"[[0, 14.69343]]",[],"[[14.81343, 25.25478]]",chopping_egg,False,test
+tBhu81kxzko_st93.0_dur40.0,tBhu81kxzko,93.0,40.0,"[[3.05116, 3.78168], [6.71896, 19.67237]]","[[19.67237, 40.00798]]",[],chopping_egg,False,test
+0V9j9wTFXNw_st191.0_dur40.0,0V9j9wTFXNw,191.0,40.0,"[[3.79146, 21.08848]]","[[21.13019, 33.784]]",[],squeezing_orange,False,test
+3c_E2AOswvg_st28.0_dur40.0,3c_E2AOswvg,28.0,40.0,"[[15.33331, 20.47866]]","[[21.42619, 28.98565]]","[[29.83736, 40.00798]]",squeezing_orange,False,test
+An9FA6a8dyc_st228.0_dur40.0,An9FA6a8dyc,228.0,40.0,"[[0, 1.13657]]","[[1.17657, 3.66045]]","[[5.01955, 9.6751], [11.48728, 20.5253]]",crushing_potato,False,test
+AOpJpEWvXbE_st173.0_dur40.0,AOpJpEWvXbE,173.0,40.0,"[[13.48788, 14.85423]]","[[16.81103, 40.00798]]",[],crushing_potato,False,test
+5jgn0F3xRqY_st83.0_dur40.0,5jgn0F3xRqY,83.0,40.0,"[[17.03789, 23.60413], [32.02797, 34.02879]]","[[35.97938, 40.00798]]",[],melting_gelatin,False,test
+VhB6NYPo2Sw_st117.0_dur40.0,VhB6NYPo2Sw,117.0,40.0,"[[0, 5.96185], [10.22796, 11.94274]]","[[25.13925, 27.13111]]","[[36.22101, 40.00798]]",melting_gelatin,False,test
+rAdFSxfSJJM_st37.0_dur40.0,rAdFSxfSJJM,37.0,40.0,"[[2.22878, 4.26403], [10.02247, 16.52219]]","[[16.55554, 19.029], [23.89313, 26.51545]]","[[26.54881, 40.00798]]",mincing_cilantro,False,test
+Oz0f89V7z9g_st192.0_dur40.0,Oz0f89V7z9g,192.0,40.0,[],"[[0, 9.41], [12.81925, 19.15649]]","[[19.53015, 31.77045], [32.5726, 37.48745]]",mincing_cilantro,False,test
+xuHCEbhBDQo_st228.0_dur40.0,xuHCEbhBDQo,228.0,40.0,"[[14.71575, 20.85348]]",[],"[[37.70048, 40.00798]]",roasting_onion,False,test
+ziAmnWUVZCs_st32.0_dur40.0,ziAmnWUVZCs,32.0,40.0,"[[0, 6.35066], [10.81504, 16.317]]",[],"[[20.89723, 35.65097]]",roasting_onion,False,test
+5EDoXF6i98M_st682.0_dur40.0,5EDoXF6i98M,682.0,40.0,"[[14.392, 17.139]]","[[17.18632, 40.04]]",[],slicing_egg,False,test
+m3pdBBDNlAY_st181.0_dur46.0,m3pdBBDNlAY,181.0,46.0,"[[0, 6.49998], [7.18333, 9.999], [15.26648, 19.39998]]","[[19.43331, 36.73331]]","[[36.76665, 46.01667]]",slicing_egg,False,test
+hq6hHqQ7qkI_st81.0_dur40.0,hq6hHqQ7qkI,81.0,40.0,"[[0, 18.13999]]","[[18.17335, 27.78394]]","[[27.81664, 34.10812]]",slicing_tofu,False,test
+Af3QVSLCzrs_st52.0_dur40.0,Af3QVSLCzrs,52.0,40.0,[],"[[8.82479, 13.34858]]","[[13.39029, 15.80566], [32.43995, 35.6402]]",slicing_tofu,False,test
+Wublzyregzo_st174.0_dur40.0,Wublzyregzo,174.0,40.0,"[[15.6812, 18.77113]]",[],"[[21.32211, 40.00798]]",melting_mozzarella,False,test
+LQeMGaimxA0_st195.0_dur40.0,LQeMGaimxA0,195.0,40.0,"[[12.92839, 21.333]]",[],"[[21.61388, 40.007]]",melting_mozzarella,False,test
+r3tWWv7roYI_st92.0_dur40.0,r3tWWv7roYI,92.0,40.0,"[[9.83333, 15.43666]]","[[15.47666, 30.23333]]","[[30.95332, 33.61667]]",grating_parmesan,False,test
+wgGky4CmiuQ_st205.0_dur40.0,wgGky4CmiuQ,205.0,40.0,"[[12.75663, 15.61172]]","[[15.64509, 21.3655]]","[[33.59304, 35.84279]]",grating_parmesan,False,test
+Mtoj3omcJUU_st78.0_dur40.0,Mtoj3omcJUU,78.0,40.0,"[[0, 6.88368]]","[[6.91704, 22.26107]]","[[22.29443, 40.00798]]",peeling_pumpkin,False,test
+4uauZ3898to_st324.0_dur40.0,4uauZ3898to,324.0,40.0,"[[12.10683, 27.291]]",[],"[[27.68448, 40.00798]]",peeling_pumpkin,False,test
+pUkfLX-_Bsk_st197.0_dur40.0,pUkfLX-_Bsk,197.0,40.0,"[[3.54772, 16.38925]]",[],"[[16.42261, 31.36839]]",peeling_banana,False,test
+MIjDB8dOkto_st45.0_dur40.0,MIjDB8dOkto,45.0,40.0,"[[0, 16.25043]]","[[16.27365, 18.73446]]","[[18.75768, 40.04]]",peeling_banana,False,test
+tehRx5e_oOA_st76.0_dur40.0,tehRx5e_oOA,76.0,40.0,"[[0, 9.08412]]","[[9.11749, 23.10944]]","[[23.1428, 40]]",peeling_beet,False,test
+9H3iECalFP8_st51.0_dur40.0,9H3iECalFP8,51.0,40.0,"[[11.70999, 16.32594]]","[[16.36594, 21.3544]]","[[21.5144, 26.08235], [29.78032, 30.84774], [35.39666, 40]]",peeling_beet,False,test
+EjOg9O4J1wI_st41.0_dur40.0,EjOg9O4J1wI,41.0,40.0,"[[12.60559, 13.07553]]","[[13.10889, 20.01331], [31.46523, 40.00798]]",[],sauteing_onion,False,test
+dhSxpFYYo5s_st26.0_dur40.0,dhSxpFYYo5s,26.0,40.0,"[[25.56136, 30.54402]]","[[33.92732, 39.49855]]",[],sauteing_onion,False,test
+z4kSoJgsu6Y_st203.0_dur40.0,z4kSoJgsu6Y,203.0,40.0,"[[0, 2.06999], [7.73, 9.10333], [15.84332, 17.16667]]","[[17.20667, 20.25]]","[[20.29, 30.98333], [36.65667, 40]]",squeezing_avocado,False,test
+tfnCD4aiXfY_st78.0_dur40.0,tfnCD4aiXfY,78.0,40.0,[],"[[0, 9.29745]]","[[9.33745, 11.26981], [14.12626, 23.06437], [27.09471, 40.00798]]",squeezing_avocado,False,test
+mi8NgEjhOmI_st218.0_dur40.0,mi8NgEjhOmI,218.0,40.0,"[[0, 18.16952]]","[[18.16952, 19.59302]]","[[19.59302, 40]]",mashing_strawberry,False,test
+ByTn7KoJ97k_st263.0_dur40.0,ByTn7KoJ97k,263.0,40.0,"[[0, 22.17105]]","[[22.64961, 27.23577]]","[[27.27577, 27.93667], [30.37667, 40.00798]]",mashing_strawberry,False,test
+fv2zCUKB56g_st84.0_dur40.0,fv2zCUKB56g,84.0,40.0,[],"[[0, 12.79]]","[[15.23756, 21.255]]",frying_ginger,False,test
+b2-CNDbo6Oc_st36.0_dur40.0,b2-CNDbo6Oc,36.0,40.0,"[[5.26539, 8.34883]]","[[13.00815, 16.13333], [20.00355, 28.41002]]","[[28.45002, 34.61794]]",frying_ginger,False,test
+H0HsMDAGP1o_st103.0_dur40.0,H0HsMDAGP1o,103.0,40.0,"[[0, 18.26832]]","[[18.30169, 32.8777]]","[[32.91106, 40.00798]]",slicing_lemon,False,test
+pfMstPa-FIA_st178.0_dur40.0,pfMstPa-FIA,178.0,40.0,[],"[[0, 21.52787]]","[[21.52787, 40.00803]]",slicing_lemon,False,test
+Rkbcz93TEHw_st95.0_dur40.0,Rkbcz93TEHw,95.0,40.0,"[[14.38726, 19.21692]]","[[19.25692, 24.18404]]","[[24.37667, 28.70097], [31.4895, 40.00798]]",chopping_coriander,False,test
+Lt9f9F1mqbI_st295.0_dur40.0,Lt9f9F1mqbI,295.0,40.0,"[[1.57838, 5.42943], [7.82217, 12.50773], [14.5279, 17.39497]]","[[17.42834, 28.40341]]","[[28.43678, 33.71986]]",chopping_coriander,False,test
+NgetvGCoEFQ_st77.0_dur40.0,NgetvGCoEFQ,77.0,40.0,"[[5.61807, 14.98777]]","[[15.02777, 26.05525]]","[[26.45523, 40.00798]]",rolling_dough,False,test
+I7I0DlsRhp4_st297.0_dur61.0,I7I0DlsRhp4,297.0,61.0,"[[0, 6.18151]]","[[6.22151, 39.36189]]","[[39.40189, 61.02204]]",rolling_dough,False,test
+NLZtBfCw37g_st45.0_dur40.0,NLZtBfCw37g,45.0,40.0,"[[4.50239, 5.87764]]","[[5.91101, 40]]",[],sauteing_vegetable,False,test
+UcAdnTTDw-k_st100.0_dur40.0,UcAdnTTDw-k,100.0,40.0,"[[2.26864, 3.70332]]","[[17.12359, 23.11726]]",[],sauteing_vegetable,False,test
+9dWOEifkdfI_st1035.0_dur40.0,9dWOEifkdfI,1035.0,40.0,"[[0, 18.10686]]","[[30.66251, 40.00798]]",[],blending_banana,False,test
+uuG8Ss4NSBs_st538.0_dur40.0,uuG8Ss4NSBs,538.0,40.0,"[[11.752, 21.272]]","[[21.342, 25.691]]","[[25.704, 40.007]]",blending_banana,False,test
+B6mOSzeg8jE_st77.0_dur62.0,B6mOSzeg8jE,77.0,62.0,"[[0, 20.33546]]","[[20.36883, 60.02788]]","[[60.06125, 62.02863]]",rolling_fondant,False,test
+rN3jrCoE0Gw_st103.0_dur40.0,rN3jrCoE0Gw,103.0,40.0,[],"[[14.83133, 16.49008]]","[[16.53178, 40.04]]",rolling_fondant,False,test
+GGZjhpeGHpo_st202.0_dur40.0,GGZjhpeGHpo,202.0,40.0,[],"[[0, 29.585]]","[[29.61897, 39.319]]",rolling_pastry,False,test
+npjVaWmPBlY_st55.0_dur40.0,npjVaWmPBlY,55.0,40.0,"[[3.05782, 6.66608]]","[[6.70608, 26.51571]]","[[26.55571, 40.00798]]",rolling_pastry,False,test
+sv6gVJ3SZEQ_st13.0_dur40.0,sv6gVJ3SZEQ,13.0,40.0,"[[15.4256, 16.68318]]","[[16.71655, 26.56687]]","[[26.60024, 31.92399]]",slicing_onion,False,test
+jWjyFwJWmEg_st201.0_dur40.0,jWjyFwJWmEg,201.0,40.0,"[[0, 6.54102], [9.14968, 15.32242]]","[[15.34971, 25.89865]]","[[26.43249, 40.00798]]",slicing_onion,False,test
+8gI5wxrkxMU_st45.0_dur40.0,8gI5wxrkxMU,45.0,40.0,"[[0, 16.12085]]","[[16.16256, 40.04]]",[],slicing_avocado,False,test
+GfRfEPBqTGQ_st77.0_dur40.0,GfRfEPBqTGQ,77.0,40.0,[],"[[13.86099, 16.32936], [18.62139, 18.88369], [20.55184, 21.40919], [24.10968, 24.63268], [25.43344, 25.93391], [26.57336, 26.85413]]","[[26.89349, 32.29145]]",slicing_avocado,False,test
+teXIUn3OQ4Q_st101.0_dur40.0,teXIUn3OQ4Q,101.0,40.0,[],"[[0, 11.89213]]","[[11.92549, 40]]",peeling_squash,False,test
+Am79SKbLMn0_st197.0_dur40.0,Am79SKbLMn0,197.0,40.0,"[[0.52006, 11.72105]]",[],"[[12.05435, 40.00798]]",peeling_squash,False,test
+SW8YElRxDEA_st21.0_dur40.0,SW8YElRxDEA,21.0,40.0,"[[0, 7.04619], [11.52298, 14.54185]]","[[14.84214, 18.71425]]",[],grating_garlic,False,test
+THW5XCwtjGg_st180.0_dur40.0,THW5XCwtjGg,180.0,40.0,"[[3.88413, 7.10591], [17.65615, 20.32277]]","[[29.5017, 31.20741]]","[[31.57442, 35.80618]]",grating_garlic,False,test
+Zx-2WF6HuwA_st56.0_dur40.0,Zx-2WF6HuwA,56.0,40.0,"[[0, 18.07473]]","[[18.11472, 24.16667]]","[[24.20667, 40.01095]]",slicing_zucchini,False,test
+nIG20reAMbQ_st144.0_dur40.0,nIG20reAMbQ,144.0,40.0,"[[16.60332, 19.59666]]",[],"[[19.63666, 21.53333]]",slicing_zucchini,False,test
+C0FiyqB2wpk_st353.0_dur40.0,C0FiyqB2wpk,353.0,40.0,"[[0, 10.96953]]","[[10.96953, 20.32333]]","[[20.32333, 40]]",slicing_cake,False,test
+6KM-vjSW728_st362.0_dur40.0,6KM-vjSW728,362.0,40.0,"[[0, 9.81956]]","[[9.85293, 20.10478]]","[[20.13815, 39.63201]]",slicing_cake,False,test
+jrHKXBZ8vck_st115.0_dur40.0,jrHKXBZ8vck,115.0,40.0,"[[0, 7.1353], [12.87202, 15.92727]]","[[15.96064, 29.4547]]","[[29.50411, 33.77534], [35.0378, 40.00798]]",squeezing_potato,False,test
+6rJkF1Fz1pM_st168.0_dur40.0,6rJkF1Fz1pM,168.0,40.0,[],"[[10.75794, 35.14169]]","[[36.02897, 40.01618]]",squeezing_potato,False,test
+Cm2XN5mbepg_st335.0_dur40.0,Cm2XN5mbepg,335.0,40.0,"[[0.04, 8.0071], [11.16259, 14.89352], [15.88458, 17.28809]]","[[17.84254, 22.27097], [23.25014, 24.11284], [25.93314, 28.32708], [30.04, 36.07666]]",[],coating_fish,False,test
+b3MPR4ztLDE_st397.0_dur40.0,b3MPR4ztLDE,397.0,40.0,"[[17.45999, 24.20666]]","[[24.20666, 40]]",[],coating_fish,False,test
+AbSLtbIMrK4_st42.0_dur40.0,AbSLtbIMrK4,42.0,40.0,"[[21.185, 27.497]]","[[27.53, 34.947], [35.672, 40.00798]]",[],sauteing_tomato,False,test
+kMXBNZ8-pQg_st31.0_dur40.0,kMXBNZ8-pQg,31.0,40.0,"[[0, 3.23693], [16.89311, 17.04196]]","[[17.07533, 40]]",[],sauteing_tomato,False,test
+TPNy2uPzxy4_st288.0_dur40.0,TPNy2uPzxy4,288.0,40.0,"[[8.85068, 11.60215], [13.85564, 20.58664]]","[[22.96298, 26.30819]]",[],blending_strawberry,False,test
+dEtdSqOwq7Q_st137.0_dur40.0,dEtdSqOwq7Q,137.0,40.0,[],"[[2.14292, 7.00115]]","[[7.04285, 40.04]]",blending_strawberry,False,test
+2oUskw2O_RM_st161.0_dur40.0,2oUskw2O_RM,161.0,40.0,"[[0.64234, 2.83097]]","[[2.87741, 6.40666]]","[[6.42988, 11.28986], [16.87483, 37.0275], [38.43501, 40.00798]]",mashing_potato,False,test
+JELpHbJXNxU_st68.0_dur40.0,JELpHbJXNxU,68.0,40.0,"[[12.38347, 21.02228]]","[[21.05565, 40.00798]]",[],mashing_potato,False,test
+FaDtM94AOPs_st0.0_dur40.0,FaDtM94AOPs,0.0,40.0,"[[8.87922, 35.722]]","[[35.756, 40.007]]",[],grating_ginger,False,test
+6nsavm4BTAo_st146.0_dur40.0,6nsavm4BTAo,146.0,40.0,"[[2.623, 9.762], [10.955, 19.22]]","[[20.262, 21.228]]",[],grating_ginger,False,test
+RbtCOZTiEhA_st18.0_dur40.0,RbtCOZTiEhA,18.0,40.0,"[[15.63977, 19.59524], [19.7287, 20.95597]]","[[23.57907, 25.83875]]","[[26.50604, 31.33012]]",blending_date,False,test
+iKma8a6QDUY_st24.0_dur40.0,iKma8a6QDUY,24.0,40.0,"[[9.39333, 11.353], [12.34617, 13.65157], [34.33751, 37.60978]]","[[38.84977, 40.00798]]",[],blending_date,False,test
+a3v-7jxMzuQ_st135.0_dur40.0,a3v-7jxMzuQ,135.0,40.0,"[[0, 20.24124]]","[[20.34124, 40.00798]]",[],chopping_jalapeno,False,test
+QN6DBEVL0rU_st319.0_dur40.0,QN6DBEVL0rU,319.0,40.0,"[[2.53127, 10.50584], [16.05509, 18.84813]]","[[18.88813, 22.28669]]","[[22.34998, 27.01641]]",chopping_jalapeno,False,test
+pIm_Xz1ZA34_st102.0_dur40.0,pIm_Xz1ZA34,102.0,40.0,"[[0, 8.88461], [13.14332, 15.55183]]","[[15.59354, 40.04]]",[],browning_beef,False,test
+FZr_eD8aXro_st153.0_dur40.0,FZr_eD8aXro,153.0,40.0,[],"[[8.21512, 17.44676]]","[[17.48013, 25.65]]",browning_beef,False,test
+gPZK-uBCHwg_st196.0_dur40.0,gPZK-uBCHwg,196.0,40.0,"[[0, 9.82472]]","[[9.85809, 11.877], [23.45506, 26.92874], [32.0124, 40.00798]]",[],slicing_bread,False,test
+hLZaTlapJGo_st142.0_dur40.0,hLZaTlapJGo,142.0,40.0,"[[0.99997, 1.74152], [3.27462, 7.94301], [9.25151, 10.32032]]","[[10.36032, 12.55473]]","[[12.59473, 13.85584], [15.24884, 30.00452], [35.88121, 37.60798]]",slicing_bread,False,test
+b4lvhCpxzGs_st136.0_dur40.0,b4lvhCpxzGs,136.0,40.0,"[[1.33662, 3.27533]]","[[3.31532, 31.18237]]",[],chopping_pepper,False,test
+IhsvcThutF4_st0.0_dur40.0,IhsvcThutF4,0.0,40.0,"[[0.53403, 3.88052]]","[[3.91389, 9.70182], [23.36566, 40.00798]]",[],chopping_pepper,False,test
+x1U_M6jsEJk_st943.0_dur40.0,x1U_M6jsEJk,943.0,40.0,"[[0, 6.163]]","[[6.19696, 40.007]]",[],coating_apple,False,test
+_5ZnQa3Szr0_st45.0_dur40.0,_5ZnQa3Szr0,45.0,40.0,"[[0, 8.8155], [18.81536, 19.91693]]","[[19.95864, 40.04]]",[],coating_apple,False,test
+MOU0cwIYEjg_st93.0_dur40.0,MOU0cwIYEjg,93.0,40.0,"[[13.38331, 26.40039]]",[],"[[36.90261, 40.00798]]",roasting_almond,False,test
+JKkTbCmsLf4_st31.0_dur40.0,JKkTbCmsLf4,31.0,40.0,"[[0, 11.91258]]","[[11.94595, 17.49498]]",[],roasting_almond,False,test
+2pr9mtxdSwU_st17.0_dur40.0,2pr9mtxdSwU,17.0,40.0,"[[7.71652, 17.36772], [22.53263, 30.25548]]","[[30.29548, 39.00284]]","[[39.04284, 40.00798]]",crushing_cooky,False,test
+wA_YzGdxGCo_st30.0_dur40.0,wA_YzGdxGCo,30.0,40.0,"[[0, 12.86595]]","[[12.89931, 22.80427]]","[[22.83763, 25.38367]]",crushing_cooky,False,test
+jzyyk8P_fao_st322.0_dur40.0,jzyyk8P_fao,322.0,40.0,"[[8.25666, 37.61505]]","[[37.65505, 40]]",[],slicing_mushroom,False,test
+jqgFVgf6TWw_st227.0_dur40.0,jqgFVgf6TWw,227.0,40.0,[],"[[0, 4.42618]]","[[4.62617, 40.007]]",slicing_mushroom,False,test
+bCcFAGpnYtw_st65.0_dur40.0,bCcFAGpnYtw,65.0,40.0,"[[0, 4.60547], [6.74667, 15.90999]]","[[15.94999, 22.18], [28.05333, 37.43666]]",[],chopping_vegetable,False,test
+bpquKVDXZ_Y_st94.0_dur40.0,bpquKVDXZ_Y,94.0,40.0,"[[0, 3.78157]]","[[4.02157, 24.58753]]","[[24.66753, 26.60301]]",chopping_vegetable,False,test
+gGDw1F1cotI_st179.0_dur40.0,gGDw1F1cotI,179.0,40.0,"[[5.93919, 6.91881]]","[[6.95217, 16.66088]]","[[17.09463, 40.00798]]",frying_potato,False,test
+TVaeAZ96zK0_st112.0_dur40.0,TVaeAZ96zK0,112.0,40.0,"[[10.97167, 11.82038]]","[[11.86038, 26.36227]]",[],frying_potato,False,test
+erAIN0xPWaU_st18.0_dur40.0,erAIN0xPWaU,18.0,40.0,"[[0, 19.18608]]","[[19.2093, 22.44189]]","[[22.46511, 40.00798]]",slicing_peach,False,test
+IHOznroQl5o_st95.0_dur51.0,IHOznroQl5o,95.0,51.0,"[[0, 0.92999], [8.87667, 13.66]]","[[13.66, 29.73666]]","[[29.73666, 30.46432], [35.72, 51]]",slicing_peach,False,test
+z2g9MnQ-mTI_st359.0_dur40.0,z2g9MnQ-mTI,359.0,40.0,[],"[[15.34077, 26.91136]]","[[32.50211, 33.5763]]",frying_rice,False,test
+VL_eWjQzpVU_st113.0_dur40.0,VL_eWjQzpVU,113.0,40.0,"[[10.15999, 13.35297]]","[[14.05285, 39.56]]",[],frying_rice,False,test
+jcg5a94zKks_st18.0_dur40.0,jcg5a94zKks,18.0,40.0,[],"[[17.31698, 21.12376]]","[[21.15712, 26.80354]]",slicing_leek,False,test
+BoVwdr_T8Lg_st13.0_dur40.0,BoVwdr_T8Lg,13.0,40.0,"[[0, 12.1264]]","[[12.1264, 36.92904]]","[[36.92904, 40.00823]]",slicing_leek,False,test
+H65KwuKRx6w_st40.0_dur40.0,H65KwuKRx6w,40.0,40.0,"[[16.84392, 18.29306]]","[[18.31979, 40.00798]]",[],sauteing_carrot,False,test
+5dQYRowLKJU_st97.0_dur40.0,5dQYRowLKJU,97.0,40.0,"[[0, 5.70455]]","[[5.73797, 40.0107]]",[],sauteing_carrot,False,test
+y4hUNVlrAj0_st516.0_dur40.0,y4hUNVlrAj0,516.0,40.0,"[[17, 17.87999]]","[[17.91999, 40]]",[],browning_mushroom,False,test
+0f4XN9fIGoo_st45.0_dur40.0,0f4XN9fIGoo,45.0,40.0,"[[9.21293, 10.90953], [16.28729, 16.6903]]","[[16.72367, 40.00798]]",[],browning_mushroom,False,test
+WD1nD3tyvdU_st209.0_dur40.0,WD1nD3tyvdU,209.0,40.0,"[[1.80164, 2.00183], [2.16864, 16.94598]]","[[16.97935, 40.00798]]",[],grilling_steak,False,test
+eh0rBsKW-LY_st0.0_dur40.0,eh0rBsKW-LY,0.0,40.0,"[[5.51916, 10.0912], [15.66464, 21.08315]]","[[21.10637, 24.26982], [25.91907, 30.92079]]","[[33.5662, 40.00798]]",grilling_steak,False,test
+BUJGwkfhqdc_st226.0_dur40.0,BUJGwkfhqdc,226.0,40.0,"[[0, 16.8606]]","[[16.8606, 18.16128]]","[[26.51639, 39.42583]]",rolling_cake,False,test
+EylcBSGjnt0_st193.0_dur40.0,EylcBSGjnt0,193.0,40.0,"[[0, 12.41046]]","[[12.43368, 21.21745]]",[],rolling_cake,False,test
+1GMWn4IxVro_st205.0_dur40.0,1GMWn4IxVro,205.0,40.0,[],"[[0, 2.40839]]","[[2.44837, 4.14077], [4.70076, 5.41525]]",chopping_shallot,False,test
+5POqyqsKO8s_st23.0_dur40.0,5POqyqsKO8s,23.0,40.0,"[[13.39615, 15.32059]]","[[15.35395, 22.83221]]","[[22.86558, 37.78522]]",chopping_shallot,False,test
+Vctv1aQzqZE_st245.0_dur40.0,Vctv1aQzqZE,245.0,40.0,"[[3.96905, 18.37482]]","[[18.37482, 28.13036]]","[[28.13036, 39.36855]]",blending_sauce,False,test
+TgzChFdrPLY_st316.0_dur40.0,TgzChFdrPLY,316.0,40.0,"[[1.41679, 10.01832]]","[[10.041, 15.6189]]","[[16.8451, 23.71032], [27.18995, 40.04004]]",blending_sauce,False,test
+dTTrSXvUyi8_st36.0_dur40.0,dTTrSXvUyi8,36.0,40.0,"[[0, 6.56666], [8.08662, 9.00661], [12.00659, 13.68658], [16.24656, 17.40655]]","[[17.44655, 21.16332]]","[[21.20332, 40]]",chopping_apple,False,test
+czr3TylNPd0_st12.0_dur40.0,czr3TylNPd0,12.0,40.0,[],"[[11.87, 13.47333]]","[[13.51333, 18.29], [22.15333, 40]]",chopping_apple,False,test
+SdkGMVTOrH0_st14.0_dur40.0,SdkGMVTOrH0,14.0,40.0,[],"[[18.32027, 20.521]]","[[27.90224, 31.14002], [37.78601, 40.04]]",chopping_mushroom,False,test
+3WuGXMPrFJs_st78.0_dur40.0,3WuGXMPrFJs,78.0,40.0,"[[0, 3.433], [5.355, 11.053], [21.271, 28.303]]","[[28.336, 40.00798]]",[],chopping_mushroom,False,test
+bkZP1x5ZlzQ_st20.0_dur40.0,bkZP1x5ZlzQ,20.0,40.0,"[[2.81486, 7.64246], [8.17629, 11.63446]]","[[14.51769, 19.82067]]","[[19.85403, 20.25987]]",slicing_chicken,False,test
+2fcFNhoyOqA_st125.0_dur40.0,2fcFNhoyOqA,125.0,40.0,[],"[[0, 14.272]]","[[14.312, 40.007]]",slicing_chicken,False,test
+07AafT2oD_4_st445.0_dur40.0,07AafT2oD_4,445.0,40.0,"[[3.54467, 14.4703]]",[],"[[14.4703, 34.04491]]",shredding_beef,False,test
+a2jnNV1ln-E_st412.0_dur40.0,a2jnNV1ln-E,412.0,40.0,[],"[[13.46012, 20.09882]]","[[20.09882, 26.00703], [36.66319, 40.00798]]",shredding_beef,False,test
+fiAcNGGG4Jk_st205.0_dur98.0,fiAcNGGG4Jk,205.0,98.0,"[[0, 34.15765], [35.67976, 36.71974]]","[[36.75973, 69.9588]]","[[69.9988, 98.01143]]",frying_tofu,False,test
+JjweCAwkd5o_st392.0_dur51.0,JjweCAwkd5o,392.0,51.0,[],"[[17.57074, 33.11355], [35.82457, 38.82603]]","[[38.90945, 51.01424]]",frying_tofu,False,test
+BJsLPVFw8pY_st145.0_dur40.0,BJsLPVFw8pY,145.0,40.0,"[[15.66922, 21.615]]","[[21.64926, 38.592]]","[[38.62546, 40.007]]",whipping_cream,False,test
+rkkJp1iflIA_st712.0_dur40.0,rkkJp1iflIA,712.0,40.0,"[[0, 16.72503]]","[[16.7667, 20.04539]]","[[20.08706, 26.13018]]",whipping_cream,False,test
+2AWx-sKuRWE_st211.0_dur40.0,2AWx-sKuRWE,211.0,40.0,"[[15.4058, 19.838]]",[],"[[22.67891, 30.481]]",slicing_carrot,False,test
+rdtW_Kucj0s_st216.0_dur40.0,rdtW_Kucj0s,216.0,40.0,"[[15.2537, 18.02917]]","[[18.06254, 21.64775]]","[[28.73679, 40]]",slicing_carrot,False,test
+_3P_agatTj8_st105.0_dur40.0,_3P_agatTj8,105.0,40.0,"[[17.66875, 26.76293], [27.16332, 27.91722]]","[[27.95059, 40.00798]]",[],frying_batter,False,test
+99H08Wu9Io4_st37.0_dur40.0,99H08Wu9Io4,37.0,40.0,"[[0, 11.48506], [13.8084, 16.76315]]","[[16.79651, 35.81165]]","[[35.84502, 40.00798]]",frying_batter,False,test
+R_8vtpql9gk_st221.0_dur40.0,R_8vtpql9gk,221.0,40.0,"[[1.3587, 16.12568]]","[[16.16739, 40.04]]",[],peeling_pear,False,test
+4WlnC0nNus4_st0.0_dur40.0,4WlnC0nNus4,0.0,40.0,"[[3.71331, 19.34349]]","[[19.78349, 31.50214], [32.22214, 34.98328], [37.86326, 39.284]]","[[39.66446, 40.00823]]",peeling_pear,False,test
+cT_VFrXYW3s_st42.0_dur40.0,cT_VFrXYW3s,42.0,40.0,"[[3.67296, 3.80641]]","[[3.83978, 14.41]]","[[14.4439, 19.78928], [20.02283, 35.59478]]",chopping_onion,False,test
+o61L5k6ZKCc_st173.0_dur40.0,o61L5k6ZKCc,173.0,40.0,"[[13.37814, 15.17928]]","[[15.17928, 26.37975]]","[[26.37975, 35.21018]]",chopping_onion,False,test
+vpEpdalrsJk_st131.0_dur40.0,vpEpdalrsJk,131.0,40.0,"[[7.453, 14.48757]]","[[14.52, 28.791]]","[[28.82474, 32.625]]",peeling_mango,False,test
+SN6XaZisipw_st104.0_dur40.0,SN6XaZisipw,104.0,40.0,[],"[[11.71828, 21.1252]]","[[21.4415, 40.00798]]",peeling_mango,False,test
+Y1-1Oiz22Gg_st86.0_dur40.0,Y1-1Oiz22Gg,86.0,40.0,"[[0, 21.10028]]",[],"[[21.36676, 31.55013], [34.91693, 40]]",grilling_pineapple,False,test
+9umr9uVfaH8_st26.0_dur40.0,9umr9uVfaH8,26.0,40.0,"[[1.85547, 24.92385]]","[[30.91432, 35.02204], [38.65496, 40.00798]]",[],grilling_pineapple,False,test
+mqfzhvufbXI_st13.0_dur40.0,mqfzhvufbXI,13.0,40.0,"[[0, 4.30131]]","[[16.44929, 20.26823]]","[[20.30994, 25.08237], [33.49207, 40.04]]",grating_zucchini,False,test
+Dyr4zp0-IIM_st13.0_dur40.0,Dyr4zp0-IIM,13.0,40.0,"[[0, 13.4465]]","[[13.46972, 40.00798]]",[],grating_zucchini,False,test
+eOyjFc0Utw8_st101.0_dur40.0,eOyjFc0Utw8,101.0,40.0,"[[0, 4.21981], [8.10983, 25.57225]]","[[25.61391, 40.00723]]",[],mashing_garlic,False,test
+lmlN61gmGEY_st7.0_dur43.0,lmlN61gmGEY,7.0,43.0,"[[12.84977, 21.768]]","[[21.80221, 22.765]]","[[22.79859, 29.556]]",mashing_garlic,False,test
+Kiab454x79Q_st214.0_dur40.0,Kiab454x79Q,214.0,40.0,"[[13.74088, 18.96663]]","[[19.00645, 30.34666]]","[[30.4083, 40.00798]]",slicing_shallot,False,test
+awXT6-g3Cmo_st42.0_dur40.0,awXT6-g3Cmo,42.0,40.0,"[[0, 1.39822]]","[[12.608, 27.75432]]","[[27.78768, 32.47491]]",slicing_shallot,False,test
+-LlWBDkGyvI_st167.0_dur71.0,-LlWBDkGyvI,167.0,71.0,[],"[[0, 62.2]]","[[62.26669, 71.006]]",melting_caramel,False,test
+g0UUU-aEMN0_st279.0_dur59.0,g0UUU-aEMN0,279.0,59.0,"[[0, 33.67565]]",[],"[[33.71735, 59.01729]]",melting_caramel,False,test
+ra6gwVjbmCc_st283.0_dur40.0,ra6gwVjbmCc,283.0,40.0,"[[1.70775, 2.71239]]","[[2.74576, 4.07833], [10.14274, 12.86298], [16.09421, 18.79636], [20.28442, 31.69533]]",[],blending_cheese,False,test
+hQeYQZGkh58_st42.0_dur48.0,hQeYQZGkh58,42.0,48.0,"[[0, 4.21546]]","[[4.25716, 20.57208]]","[[21.28392, 48.01887]]",blending_cheese,False,test
+otE-C6Lr4AI_st231.0_dur40.0,otE-C6Lr4AI,231.0,40.0,"[[5.08329, 8.61547]]","[[8.89547, 13.81542]]","[[13.93542, 20.20667]]",mincing_beef,False,test
+uBWwKbdoUGg_st209.0_dur40.0,uBWwKbdoUGg,209.0,40.0,"[[19.26549, 19.70549]]","[[19.70549, 21.11814]]","[[21.324, 21.644]]",chopping_herb,False,test
+XIZxMvYRkA0_st438.0_dur40.0,XIZxMvYRkA0,438.0,40.0,"[[14.251, 15.896], [16.994, 18.767]]","[[18.807, 34.732]]","[[34.772, 36.487]]",chopping_herb,False,test
+eBzFe3NLXWU_st80.0_dur40.0,eBzFe3NLXWU,80.0,40.0,"[[0, 11.03051]]",[],"[[11.06388, 32.88601]]",peeling_potato,False,test
+_1siOauyg_I_st26.0_dur40.0,_1siOauyg_I,26.0,40.0,"[[0, 9.874]]","[[9.90745, 15.69966]]","[[15.89965, 40.00798]]",peeling_potato,False,test
+U19Gehpj0GE_st266.0_dur40.0,U19Gehpj0GE,266.0,40.0,"[[7.91249, 8.78128]]","[[8.9081, 25.1395]]",[],browning_bacon,False,test
+U3z9jvQlV-M_st56.0_dur66.0,U3z9jvQlV-M,56.0,66.0,"[[18.42739, 26.73427]]","[[26.77427, 50.92086]]",[],browning_bacon,False,test
+zAbwYkje-74_st138.0_dur40.0,zAbwYkje-74,138.0,40.0,[],"[[0, 4.63744]]","[[5.87741, 40]]",slicing_beef,False,test
+qmIJHjIuIAo_st42.0_dur40.0,qmIJHjIuIAo,42.0,40.0,[],"[[4.51918, 12.99563]]","[[18.44552, 33.36069]]",slicing_beef,False,test
+8o-GPGZxGNY_st9.0_dur40.0,8o-GPGZxGNY,9.0,40.0,"[[16.24773, 17.10152]]","[[17.12474, 20.14149]]","[[20.16471, 37.49883]]",peeling_carrot,False,test
+b7FVh4PCkwA_st77.0_dur40.0,b7FVh4PCkwA,77.0,40.0,"[[15.74353, 17.48514]]","[[17.60804, 33.90388]]",[],peeling_carrot,False,test
+8qq_gQnbTRU_st353.0_dur45.0,8qq_gQnbTRU,353.0,45.0,"[[10.75845, 17.85969]]","[[17.9014, 36.08222]]","[[36.12393, 38.05028]]",crushing_garlic,False,test
+JvOF9c_CjHY_st138.0_dur40.0,JvOF9c_CjHY,138.0,40.0,"[[0, 15.85457], [16.85551, 19.55947]]","[[19.59284, 20.83093]]","[[21.06447, 40.00798]]",crushing_garlic,False,test
+WoEvGhTWkLU_st74.0_dur40.0,WoEvGhTWkLU,74.0,40.0,"[[15.67, 38.49]]","[[38.61, 40]]",[],shredding_cabbage,False,test
+4g0PIXG_A74_st29.0_dur40.0,4g0PIXG_A74,29.0,40.0,"[[4.58092, 15.77399]]","[[15.8157, 23.73003]]","[[23.77174, 28.406]]",shredding_cabbage,False,test
+bj-7TPFZTEM_st369.0_dur40.0,bj-7TPFZTEM,369.0,40.0,"[[14.1878, 19.2664]]","[[19.43535, 24.029]]",[],rolling_tortilla,False,test
+RkvVRDXZ8wk_st96.0_dur40.0,RkvVRDXZ8wk,96.0,40.0,"[[7.41532, 9.54512]]",[],"[[9.98802, 13.07554], [15.74915, 17.86371], [17.99717, 22.60532]]",rolling_tortilla,False,test
+gBYAf-Zcsa8_st113.0_dur40.0,gBYAf-Zcsa8,113.0,40.0,"[[4.17969, 20.15884]]","[[20.15884, 32.48874]]","[[33.22698, 40.04]]",frying_bread,False,test
+JClDVqopMRY_st45.0_dur40.0,JClDVqopMRY,45.0,40.0,[],"[[7.91624, 31.78779]]","[[33.05731, 37.43873]]",frying_bread,False,test
+dAkA2iB_pG4_st137.0_dur40.0,dAkA2iB_pG4,137.0,40.0,"[[8.225, 14.32271]]","[[14.36437, 21.00684]]","[[21.04851, 40.00798]]",chopping_chicken,False,test
+d8t4CVxRJM8_st109.0_dur40.0,d8t4CVxRJM8,109.0,40.0,"[[29.17103, 30.96]]",[],"[[35.10314, 38.698]]",chopping_chicken,False,test
+FA0p-0iWflg_st294.0_dur40.0,FA0p-0iWflg,294.0,40.0,"[[0, 12.39697], [12.81405, 14.82438]]","[[14.86609, 22.94744]]","[[22.98915, 34.90489], [39.34679, 40.04]]",mincing_ginger,False,test
+OM18HtDmbHQ_st58.0_dur40.0,OM18HtDmbHQ,58.0,40.0,"[[11.26094, 16.24482]]","[[16.73977, 30.95816]]",[],mincing_ginger,False,test
+7xoWhwZrzaI_st134.0_dur40.0,7xoWhwZrzaI,134.0,40.0,"[[14.46557, 35.57554]]","[[35.61724, 39.4978]]",[],mincing_jalapeno,False,test
+eQ9eY0_DoEk_st69.0_dur40.0,eQ9eY0_DoEk,69.0,40.0,[],"[[15.99128, 20.291]]","[[20.51135, 40.00798]]",mincing_jalapeno,False,test
+It7rqZhBjdM_st206.0_dur40.0,It7rqZhBjdM,206.0,40.0,"[[24.85552, 33.53283]]","[[33.57283, 40.00798]]",[],frying_paneer,False,test
+5lPB0PmqQFM_st77.0_dur45.0,5lPB0PmqQFM,77.0,45.0,"[[0, 17.16323], [18.01892, 18.47546]]","[[18.5088, 45.00027]]",[],frying_paneer,False,test
+DHKy0waLfM0_st39.0_dur91.0,DHKy0waLfM0,39.0,91.0,"[[23.566, 52.85518]]","[[52.88855, 91.02427]]",[],grilling_asparagus,False,test
+J5prECyVWJ4_st52.0_dur40.0,J5prECyVWJ4,52.0,40.0,"[[0.06966, 2.26011], [14.00485, 14.44474]]","[[14.46796, 16.15], [35.04344, 40]]",[],grilling_asparagus,False,test
+hvJQUZTC9k0_st223.0_dur40.0,hvJQUZTC9k0,223.0,40.0,"[[0, 6.26292]]","[[8.16034, 13.634], [19.88749, 30.0482], [35.69, 39.36]]",[],grilling_eggplant,False,test
+QGpf8cg2X1k_st133.0_dur40.0,QGpf8cg2X1k,133.0,40.0,[],"[[0, 14.05194]]","[[15.6667, 18.37084], [23.84702, 40.00798]]",grilling_eggplant,False,test
+munnL6jJBeA_st109.0_dur40.0,munnL6jJBeA,109.0,40.0,"[[0, 16.86725]]","[[18.602, 32.72321]]","[[32.78994, 40.00798]]",frying_chicken,False,test
+Vf1CXQexxoQ_st103.0_dur57.0,Vf1CXQexxoQ,103.0,57.0,"[[0, 9.78642], [22.21707, 22.74076]]","[[22.77413, 47.29244]]",[],frying_chicken,False,test
+VKNg-OPAft8_st53.0_dur40.0,VKNg-OPAft8,53.0,40.0,"[[0, 4.08354]]","[[10.64926, 19.2579]]",[],frying_garlic,False,test
+SHd1i7JLCoo_st90.0_dur40.0,SHd1i7JLCoo,90.0,40.0,"[[5.55389, 6.34317]]","[[6.37651, 13.28726]]","[[13.91153, 20.07321]]",frying_garlic,False,test
+2ATYlT2bbP0_st43.0_dur40.0,2ATYlT2bbP0,43.0,40.0,"[[0, 3.79217]]","[[4.34775, 10.4446]]","[[10.49876, 15.10941], [23.08084, 25.81561]]",slicing_apple,False,test
+L-WTmKsBq2k_st129.0_dur40.0,L-WTmKsBq2k,129.0,40.0,"[[13.18208, 16.64671]]","[[16.64671, 25.81082]]","[[25.81082, 26.82586], [30.6673, 40.00798]]",slicing_apple,False,test
+nUH7Iv8qWBo_st170.0_dur40.0,nUH7Iv8qWBo,170.0,40.0,"[[0, 9.39355], [15.49756, 20.61344]]","[[20.64681, 40.00798]]",[],frying_eggplant,False,test
+U2xsJY-VVhQ_st66.0_dur40.0,U2xsJY-VVhQ,66.0,40.0,"[[0, 6.82442], [10.12041, 10.88041]]","[[10.92041, 40.00798]]",[],frying_eggplant,False,test
+7fIFS7dAaBY_st115.0_dur40.0,7fIFS7dAaBY,115.0,40.0,[],"[[15.19237, 16.03314]]","[[16.07485, 17.58977], [20.91047, 25.04603], [28.88306, 32.17788]]",slicing_scallion,False,test
+kePk8GQsz00_st187.0_dur40.0,kePk8GQsz00,187.0,40.0,"[[12.49073, 12.89272]]","[[12.93271, 20.75097]]","[[20.79097, 40.00798]]",slicing_scallion,False,test
+xdQ9lWE9uAQ_st542.0_dur42.0,xdQ9lWE9uAQ,542.0,42.0,"[[19.53404, 26.21481], [27.62704, 30.04104]]","[[30.08104, 42.0049]]",[],chopping_cabbage,False,test
+zTFu9ITl4xw_st73.0_dur40.0,zTFu9ITl4xw,73.0,40.0,[],"[[0, 1.64956], [2.80953, 5.96166]]","[[6.00166, 11.29137], [13.55974, 35.9511]]",chopping_cabbage,False,test
+OH5pP5Yd85A_st174.0_dur40.0,OH5pP5Yd85A,174.0,40.0,"[[13.99745, 14.76126]]","[[15.62496, 21.00837]]","[[21.07803, 23.50295]]",frying_pork,False,test
+J3tCBVTgzLg_st190.0_dur40.0,J3tCBVTgzLg,190.0,40.0,"[[13.89, 14.28999]]","[[14.32999, 40]]",[],frying_pork,False,test
+QBXC5QGfdc8_st125.0_dur40.0,QBXC5QGfdc8,125.0,40.0,[],"[[16.74666, 21.044]]","[[36.04663, 40.007]]",chopping_rosemary,False,test
+rMEhi3CHptU_st159.0_dur40.0,rMEhi3CHptU,159.0,40.0,"[[12.71654, 35.13709]]","[[35.17042, 36.87039]]","[[36.90373, 38.40369]]",chopping_rosemary,False,test
+0OZbuzeX0-k_st47.0_dur40.0,0OZbuzeX0-k,47.0,40.0,[],"[[15.8325, 22.32184]]","[[24.6574, 26.97943]]",roasting_hazelnut,False,test
+buOmzNF2i9M_st276.0_dur40.0,buOmzNF2i9M,276.0,40.0,"[[17.21387, 18.555]]","[[18.77518, 20.75709]]","[[23.1614, 28.5346], [30.12777, 34.96299]]",grating_cheese,False,test
+raDAe82MYpI_st79.0_dur40.0,raDAe82MYpI,79.0,40.0,"[[0, 1.08199]]","[[1.1237, 29.65849]]","[[29.7002, 40.04]]",grating_cheese,False,test
+-f6FQxH7qTo_st330.0_dur40.0,-f6FQxH7qTo,330.0,40.0,[],"[[16.70077, 21.32124]]","[[35.90452, 40.00798]]",chopping_pecan,False,test
+aovtns8VCzo_st245.0_dur40.0,aovtns8VCzo,245.0,40.0,"[[0, 16.4003], [17.40129, 17.90178], [18.40227, 21.40524], [22.70653, 25.6094]]","[[27.01077, 34.318]]","[[34.81848, 37.88393]]",chopping_pecan,False,test
+1wdyLJc4f9k_st88.0_dur40.0,1wdyLJc4f9k,88.0,40.0,"[[0, 11.11008]]","[[32.63661, 38.92742]]",[],sauteing_pepper,False,test
+sak4dwCyQwk_st60.0_dur40.0,sak4dwCyQwk,60.0,40.0,[],"[[20.03444, 32.4163]]","[[39.2072, 40.00798]]",sauteing_pepper,False,test
+AD64-PrpYag_st62.0_dur40.0,AD64-PrpYag,62.0,40.0,"[[0, 4.85], [5.00999, 7.40994]]","[[7.44993, 40]]",[],roasting_carrot,False,test
+_qZ2hMxLXdE_st69.0_dur40.0,_qZ2hMxLXdE,69.0,40.0,"[[18.25546, 20.23129], [20.55397, 24.21888]]","[[24.47238, 25.58903]]",[],roasting_carrot,False,test
+9y4qTtsbP0Q_st55.0_dur40.0,9y4qTtsbP0Q,55.0,40.0,[],"[[17.28, 19.42]]","[[19.46, 20.46333]]",mashing_banana,False,test
+2-k2IywQE4g_st103.0_dur40.0,2-k2IywQE4g,103.0,40.0,"[[11.87665, 18.96537]]","[[19.08537, 40.00798]]",[],mashing_banana,False,test
+8g-nvUtzN9U_st89.0_dur40.0,8g-nvUtzN9U,89.0,40.0,"[[0, 10.57604]]","[[10.61604, 30.379]]","[[34.40901, 40.00798]]",grilling_zucchini,False,test
+6fFKHC4aqec_st314.0_dur40.0,6fFKHC4aqec,314.0,40.0,[],"[[0, 18.17267]]","[[18.20604, 24.02374], [29.612, 36.67591]]",grilling_zucchini,False,test
+GEdBnphGDpc_st98.0_dur40.0,GEdBnphGDpc,98.0,40.0,"[[16.26666, 20.1], [20.43332, 21.13331]]","[[21.16664, 30.1]]","[[30.13333, 37.98334]]",frying_bacon,False,test
+lzJD_zkJB9E_st229.0_dur40.0,lzJD_zkJB9E,229.0,40.0,"[[15.1128, 17.80492]]","[[17.83828, 20.45954], [23.16224, 28.87063], [30.20445, 38.50384]]",[],frying_bacon,False,test
+Ud2XtvxssJI_st60.0_dur40.0,Ud2XtvxssJI,60.0,40.0,"[[0, 0.28043], [2.45454, 4.20892], [6.06163, 8.03688], [9.0796, 13.33701]]","[[16.25449, 21.85176]]","[[24.05379, 27.1597], [28.60452, 31.47364], [34.09511, 40.00798]]",coating_potato,False,test
+MASQ8Oy5d94_st104.0_dur40.0,MASQ8Oy5d94,104.0,40.0,"[[0, 31.94831]]","[[32.02, 40.00798]]",[],coating_potato,False,test
+dWnU_Y_k3Og_st33.0_dur52.0,dWnU_Y_k3Og,33.0,52.0,"[[0, 12.77903], [15.28944, 24.23112]]","[[24.25434, 24.85265]]","[[24.87587, 52.0127]]",shredding_carrot,False,test
+xamE91fabTE_st51.0_dur40.0,xamE91fabTE,51.0,40.0,"[[25.82734, 26.61977]]","[[27.53976, 28.91561]]","[[36.03847, 39.64798]]",shredding_carrot,False,test
+l4olop-mCdI_st0.0_dur40.0,l4olop-mCdI,0.0,40.0,"[[17.64059, 20.35728]]","[[20.39064, 22.02553], [27.3765, 40.00798]]",[],slicing_cabbage,False,test
+T24SRs0xETc_st428.0_dur40.0,T24SRs0xETc,428.0,40.0,"[[8.41683, 8.76178]]","[[8.79514, 12.29017]]","[[12.32354, 40.00798]]",slicing_cabbage,False,test
+Yv8pppLuJP8_st45.0_dur40.0,Yv8pppLuJP8,45.0,40.0,[],"[[0, 3.0763]]","[[3.10967, 27.03327]]",crushing_ginger,False,test
+3wJwyVIC76o_st22.0_dur40.0,3wJwyVIC76o,22.0,40.0,"[[0, 2.978]]","[[14.768, 40.00798]]",[],crushing_ginger,False,test
+kPdO95AJ87U_st119.0_dur40.0,kPdO95AJ87U,119.0,40.0,"[[30.62658, 31.07994]]","[[31.23994, 34.6124]]","[[34.7724, 40.00798]]",chopping_nut,False,test
+0EL82nd-9UY_st245.0_dur40.0,0EL82nd-9UY,245.0,40.0,"[[2.74658, 9.73808]]","[[16.98116, 21.93419]]",[],chopping_nut,False,test
+WGRSSeSKVDo_st45.0_dur40.0,WGRSSeSKVDo,45.0,40.0,"[[17.89977, 19.84284], [20.58199, 21.18199]]","[[21.22199, 40.00798]]",[],frying_vegetable,False,test
+6jTyTorU9C4_st130.0_dur40.0,6jTyTorU9C4,130.0,40.0,"[[0, 12.80333]]","[[12.88674, 27.8715]]","[[28.28857, 40.04]]",frying_vegetable,False,test
+iCNMvwfe-M0_st217.0_dur40.0,iCNMvwfe-M0,217.0,40.0,"[[17.68392, 19.17108]]","[[19.17108, 28.23384]]","[[28.23384, 29.36627]]",chopping_mint,False,test
+YHnAbwLuMQE_st53.0_dur40.0,YHnAbwLuMQE,53.0,40.0,"[[0, 6.56437], [8.46748, 21.07467]]","[[21.23467, 26.08476]]","[[26.24476, 37.20558]]",chopping_mint,False,test
+B0NyIsZEfOg_st1.0_dur40.0,B0NyIsZEfOg,1.0,40.0,"[[9.68846, 12.55593]]","[[15.75373, 18.85918]]","[[25.08903, 37.56142]]",grilling_bread,False,test
+-2YsR7jLub0_st112.0_dur40.0,-2YsR7jLub0,112.0,40.0,[],"[[16.8598, 33.439]]","[[33.47246, 36.582]]",grilling_bread,False,test
+ZnoELKiXTFM_st20.0_dur40.0,ZnoELKiXTFM,20.0,40.0,[],"[[16.01693, 18.86481]]","[[19.13174, 40]]",peeling_cucumber,False,test
+2z06UB9dj24_st39.0_dur40.0,2z06UB9dj24,39.0,40.0,"[[3.19786, 4.83913]]","[[4.89339, 11.57123]]","[[11.61123, 28.43936]]",peeling_cucumber,False,test
+9sodGq2XdXM_st11.0_dur40.0,9sodGq2XdXM,11.0,40.0,[],"[[18.04171, 19.83851]]","[[20.59851, 25.51848]]",roasting_nut,False,test
+tY86taXkZuw_st42.0_dur40.0,tY86taXkZuw,42.0,40.0,"[[8.85173, 16.758]]","[[16.80064, 27.297]]","[[27.339, 28.794], [38.19004, 40.04]]",roasting_nut,False,test
+wyxI4GSdoO8_st210.0_dur40.0,wyxI4GSdoO8,210.0,40.0,"[[4.40457, 9.08974], [0, 2.54705]]","[[9.33281, 40.00798]]",[],shredding_meat,False,test
+hrIT3LnVh0s_st147.0_dur40.0,hrIT3LnVh0s,147.0,40.0,"[[0, 3.85904]]","[[3.93904, 12.95566]]",[],shredding_meat,False,test
+E1czjYCKyKU_st67.0_dur40.0,E1czjYCKyKU,67.0,40.0,"[[10.10715, 15.02415]]","[[18.04478, 20.46776]]",[],chopping_banana,False,test
+ld1uxiPhj_M_st35.0_dur40.0,ld1uxiPhj_M,35.0,40.0,"[[0, 7.59171]]","[[7.65837, 16.52413]]","[[17.32411, 38.44133]]",chopping_banana,False,test
+2S6UJlQDl8o_st21.0_dur40.0,2S6UJlQDl8o,21.0,40.0,"[[4.97845, 13.20947]]","[[13.24283, 22.24853]]","[[22.2819, 38.311]]",shredding_lettuce,False,test
+MVOnM-nEIpI_st384.0_dur47.0,MVOnM-nEIpI,384.0,47.0,"[[17.14875, 18.683]]","[[18.72519, 29.026]]","[[29.06771, 37.70118], [46.68674, 47.02041]]",shredding_lettuce,False,test
+7o4G4pFjn_8_st260.0_dur40.0,7o4G4pFjn_8,260.0,40.0,"[[0.13164, 1.73969], [4.04849, 6.57557], [8.86519, 10.50886]]","[[11.58429, 14.71931], [16.8875, 31.10974]]","[[31.34306, 36.87781], [38.0145, 39.60798]]",grilling_chicken,False,test
+dW0IovJOySY_st66.0_dur40.0,dW0IovJOySY,66.0,40.0,"[[6.85351, 8.13896]]","[[8.13896, 20.99876]]",[],grilling_chicken,False,test
+PbhiETwKulg_st24.0_dur40.0,PbhiETwKulg,24.0,40.0,[],"[[12.64394, 17.76838]]","[[17.85179, 40.04]]",sauteing_mushroom,False,test
+FU_The50Kis_st162.0_dur40.0,FU_The50Kis,162.0,40.0,"[[8.02626, 14.30423]]","[[14.30423, 28.14477]]","[[28.14477, 33.68242]]",sauteing_mushroom,False,test
+kilXYt8SvS0_st24.0_dur40.0,kilXYt8SvS0,24.0,40.0,"[[16.97113, 18.09112]]","[[18.13112, 19.79011]]","[[19.83011, 33.33697]]",melting_butter,False,test
+JeaPOP-JUvY_st354.0_dur40.0,JeaPOP-JUvY,354.0,40.0,"[[14.73317, 16.12263]]","[[16.156, 40.00798]]",[],melting_butter,False,test
+BvXXvYqQroU_st136.0_dur53.0,BvXXvYqQroU,136.0,53.0,"[[1.07389, 4.57811], [13.16938, 15.50356], [18.01509, 20.527]]","[[20.56703, 35.19669]]","[[38.73145, 41.41106]]",roasting_coconut,False,test
+g8tBpbtSg-c_st39.0_dur40.0,g8tBpbtSg-c,39.0,40.0,"[[0, 2.68356], [11.31131, 21.65454]]","[[21.69454, 25.0289]]","[[26.12639, 30.01824], [39.08365, 40.00798]]",roasting_coconut,False,test
+SdrBS-Se7pk_st317.0_dur40.0,SdrBS-Se7pk,317.0,40.0,"[[7.0472, 14.84165]]","[[14.87613, 40.00798]]",[],mashing_avocado,False,test
+xmzKgdcwXrU_st34.0_dur40.0,xmzKgdcwXrU,34.0,40.0,"[[0, 23.10887]]","[[23.15058, 33.74327]]","[[33.78498, 37.22361]]",mashing_avocado,False,test
+mHMK0sltJM0_st94.0_dur40.0,mHMK0sltJM0,94.0,40.0,"[[2.46742, 5.10735], [12.754, 13.90277]]","[[13.94211, 26.64846]]","[[26.68846, 34.29201]]",chopping_tomato,False,test
+HhxhyEC247o_st164.0_dur40.0,HhxhyEC247o,164.0,40.0,"[[0.66549, 24.05813]]","[[24.19159, 25.59332]]","[[25.62668, 26.31376], [27.58161, 28.21837]]",chopping_tomato,False,test
+Gu79e0F_DAQ_st5.0_dur40.0,Gu79e0F_DAQ,5.0,40.0,"[[7.40661, 24.451]]","[[24.47492, 28.926]]",[],grilling_bacon,False,test
+rmieAqTG1wI_st56.0_dur40.0,rmieAqTG1wI,56.0,40.0,[],"[[12.7577, 16.19187], [17.81937, 21.60761]]","[[25.06527, 27.07896]]",grilling_bacon,False,test
+RK0sxLGPYSA_st13.0_dur40.0,RK0sxLGPYSA,13.0,40.0,[],"[[13.91571, 21.80557]]","[[21.84557, 31.27781]]",zesting_orange,False,test
+KC1zQV1BgcY_st123.0_dur62.0,KC1zQV1BgcY,123.0,62.0,"[[6.40401, 13.66041], [17.36255, 21.59011]]","[[27.65999, 51.677]]","[[51.71058, 62.02863]]",zesting_orange,False,test
+A_IRFfuG9vg_st88.0_dur40.0,A_IRFfuG9vg,88.0,40.0,"[[1.95249, 16.77362]]","[[16.80698, 40.00798]]",[],browning_sausage,False,test
+rk6-Wu-zP7c_st188.0_dur40.0,rk6-Wu-zP7c,188.0,40.0,"[[0, 5.51974]]","[[5.6811, 40.00798]]",[],browning_sausage,False,test
+TL_9VxMpfxo_st167.0_dur56.0,TL_9VxMpfxo,167.0,56.0,[],"[[20.28, 22.199]]","[[22.31997, 23.293], [40.74999, 56.006]]",chopping_mango,False,test
+Upqp21Dm5vg_st221.0_dur40.0,Upqp21Dm5vg,221.0,40.0,"[[17.33399, 33.91429]]","[[33.956, 36.108]]","[[36.1497, 40.04]]",chopping_mango,False,test
+XCsNaVsDQBo_st21.0_dur40.0,XCsNaVsDQBo,21.0,40.0,"[[7.16667, 17.96705]]","[[18.00041, 40]]",[],slicing_tomato,False,test
+gvZckHzKi6M_st83.0_dur40.0,gvZckHzKi6M,83.0,40.0,"[[0, 2.174]]",[],"[[27.147, 40.00798]]",slicing_tomato,False,test
+Y1JfxX_fBJA_st132.0_dur57.0,Y1JfxX_fBJA,132.0,57.0,"[[0.04167, 10.66613]]","[[10.70779, 57.00499]]",[],crushing_tomato,False,test
+VaI1arnGdQM_st27.0_dur40.0,VaI1arnGdQM,27.0,40.0,[],"[[10.33325, 35.39999]]","[[36.19165, 40.00798]]",crushing_tomato,False,test
+c6uoCLv93mI_st237.0_dur40.0,c6uoCLv93mI,237.0,40.0,"[[0, 12.46732]]","[[12.50065, 30.53447]]","[[30.5678, 34.88204], [36.11535, 36.27692], [36.88792, 37.92049]]",chopping_leaf,False,test
+fjJmMUE3bHw_st129.0_dur40.0,fjJmMUE3bHw,129.0,40.0,"[[0, 13.89665]]","[[13.93665, 23.46132]]","[[23.50132, 29.24947], [34.76942, 40.00798]]",chopping_leaf,False,test
+hOy31SEa7S0_st102.0_dur40.0,hOy31SEa7S0,102.0,40.0,"[[0, 16.214]]",[],"[[17.51695, 40.007]]",melting_marshmallow,False,test
+bySQiX7dBU8_st5.0_dur40.0,bySQiX7dBU8,5.0,40.0,"[[5.69998, 11.14643], [16.97254, 21.5473]]","[[21.58063, 29.36143]]","[[34.80096, 39.44132]]",melting_marshmallow,False,test
+t0VnM9Pven4_st168.0_dur40.0,t0VnM9Pven4,168.0,40.0,"[[16.97289, 17.25071]]","[[17.25071, 19.17636]]","[[19.17636, 19.73072], [22.4105, 23.4886]]",slicing_ginger,False,test
+Ef8IV-jmnRQ_st39.0_dur40.0,Ef8IV-jmnRQ,39.0,40.0,"[[16.04666, 16.72665]]","[[16.76665, 21.38333]]","[[21.42333, 27.46333]]",slicing_ginger,False,test
+1ozbWT81Ajg_st180.0_dur40.0,1ozbWT81Ajg,180.0,40.0,"[[0.46711, 14.78362]]","[[14.81698, 31.68387]]","[[33.66588, 35.58337], [36.15059, 40]]",whipping_egg,False,test
+bQ37PDq75tY_st0.0_dur40.0,bQ37PDq75tY,0.0,40.0,"[[0, 12.92342], [15.53178, 15.67824]]","[[16.94611, 18.726], [23.07525, 25.471], [27.70313, 29.10366], [30.76471, 40.00798]]",[],whipping_egg,False,test
+oZmJVJLm-_k_st200.0_dur40.0,oZmJVJLm-_k,200.0,40.0,[],"[[0, 9.249], [11.56235, 13.35934]]","[[13.7766, 40.00798]]",crushing_oreo,False,test
+T9BGbN0IGJU_st24.0_dur40.0,T9BGbN0IGJU,24.0,40.0,"[[15.27484, 18.2953]]","[[18.2953, 30.00975]]","[[30.04972, 35.37024]]",crushing_oreo,False,test
+fApN5cEd64A_st84.0_dur40.0,fApN5cEd64A,84.0,40.0,"[[5.2796, 6.42333]]","[[12.28037, 16.97645]]","[[18.82029, 21.45666]]",slicing_radish,False,test
+pLzkBd7AlaY_st45.0_dur40.0,pLzkBd7AlaY,45.0,40.0,"[[12.96661, 21.35613]]","[[21.39784, 26.44914]]","[[29.08719, 37.70809]]",slicing_radish,False,test
+pRHUY4Sl_Mc_st55.0_dur40.0,pRHUY4Sl_Mc,55.0,40.0,"[[0, 11.77803], [14.04492, 22.15236]]","[[22.19507, 23.47507]]","[[23.49, 40]]",peeling_ginger,False,test
+kE2nsRYAI0w_st136.0_dur40.0,kE2nsRYAI0w,136.0,40.0,"[[4.70066, 13.55801]]","[[13.59137, 19.55003]]","[[19.58339, 35.08252]]",peeling_ginger,False,test
+ABp98mmiX8g_st74.0_dur40.0,ABp98mmiX8g,74.0,40.0,"[[13.48351, 17.74945]]","[[19.84773, 32.16998]]",[],sauteing_shallot,False,test
+FD59sjs9LPE_st229.0_dur40.0,FD59sjs9LPE,229.0,40.0,"[[15.82757, 17.14993]]","[[18.11834, 27.46991]]","[[29.99384, 32.38575], [35.74577, 40.04]]",sauteing_shallot,False,test
+nkpi_dNmfuU_st36.0_dur40.0,nkpi_dNmfuU,36.0,40.0,"[[10.87876, 24.09112]]","[[24.11434, 25.47777]]","[[25.61708, 38.27442]]",grating_potato,False,test
+gcL4DpIFsfA_st96.0_dur40.0,gcL4DpIFsfA,96.0,40.0,"[[0, 16.05012], [19.91085, 25.2585]]","[[25.3002, 37.35223]]","[[37.39394, 40.04]]",grating_potato,False,test
+dULPbOtJdLc_st159.0_dur40.0,dULPbOtJdLc,159.0,40.0,"[[14.11726, 18.258]]","[[18.29152, 20.897]]",[],peeling_plantain,False,test
+CLMLwRWtvsQ_st13.0_dur43.0,CLMLwRWtvsQ,13.0,43.0,"[[10.9163, 37.92112]]","[[37.95449, 43.00963]]",[],peeling_plantain,False,test
+C0568otp3NY_st41.0_dur40.0,C0568otp3NY,41.0,40.0,"[[4.75035, 6.40032], [7.3679, 10.21621], [15.61614, 16.08325]]","[[16.11661, 19.9667]]","[[20.00006, 20.89971]]",blending_cashew,False,test
+LWustk17EVM_st453.0_dur40.0,LWustk17EVM,453.0,40.0,"[[0, 18.496]]","[[18.53608, 22.185]]","[[22.22544, 34.986]]",blending_cashew,False,test
+E29kY3Vg6QQ_st193.0_dur40.0,E29kY3Vg6QQ,193.0,40.0,[],"[[0, 12.36667], [16.67228, 26.52713]]","[[26.91022, 40]]",frying_banana,False,test
+lyI6I-GAE0w_st139.0_dur40.0,lyI6I-GAE0w,139.0,40.0,"[[0, 7.10477]]","[[7.138, 34.37277]]","[[37.73342, 40.00798]]",frying_banana,False,test
+xYONLksSTKs_st77.0_dur40.0,xYONLksSTKs,77.0,40.0,"[[1.429, 7.327]]","[[8.36652, 23.32274]]","[[22.907, 26.279], [36.202, 40.007]]",slicing_eggplant,False,test
+60hFBHoRhNc_st31.0_dur40.0,60hFBHoRhNc,31.0,40.0,"[[0, 29.542]]","[[29.576, 40.00798]]",[],slicing_eggplant,False,test
+4gz9TrDOZGs_st122.0_dur40.0,4gz9TrDOZGs,122.0,40.0,"[[16.52185, 23.14887]]",[],"[[24.47293, 40.00798]]",blending_ice,False,test
+kviUY706wsk_st75.0_dur40.0,kviUY706wsk,75.0,40.0,"[[0, 21.80808]]","[[21.8313, 24.21217]]","[[24.23539, 29.98526], [30.72434, 39.05181]]",blending_ice,False,test
+vG2le1mEkZQ_st94.0_dur40.0,vG2le1mEkZQ,94.0,40.0,"[[12.63317, 17]]","[[17.03336, 24.6334]]","[[24.66676, 30.66647], [37.06657, 40]]",blending_milk,False,test
+ELkzNXNnxPE_st319.0_dur40.0,ELkzNXNnxPE,319.0,40.0,"[[0, 5.21652], [11.69626, 23.29742]]","[[23.33079, 28.23096]]","[[28.26432, 40.00798]]",blending_milk,False,test
+fJ1vqr7LeU8_st354.0_dur40.0,fJ1vqr7LeU8,354.0,40.0,"[[0.03333, 13.71441], [14.33353, 15.29924]]",[],"[[16.01666, 40.00798]]",browning_crust,False,test
+Hg-4ykYcMNc_st164.0_dur40.0,Hg-4ykYcMNc,164.0,40.0,"[[0.55444, 11.12854], [21.74223, 25.10852]]",[],"[[26.21741, 27.72234], [32.0391, 35.48459]]",browning_crust,False,test
+yBsdm5ooHdo_st0.0_dur40.0,yBsdm5ooHdo,0.0,40.0,"[[0, 1.87233]]","[[1.90569, 27.21125]]","[[27.24461, 40]]",rolling_clay,False,test
+63su5y_L7p4_st119.0_dur40.0,63su5y_L7p4,119.0,40.0,"[[14.27363, 18.657]]","[[18.69751, 26.104]]","[[26.14419, 40.007]]",rolling_clay,False,test
+pGfj7FVIkBI_st7.0_dur40.0,pGfj7FVIkBI,7.0,40.0,"[[14.41532, 18.02471]]",[],"[[18.58701, 25.72823]]",roasting_turkey,False,test
+XpVC6oUULnU_st687.0_dur40.0,XpVC6oUULnU,687.0,40.0,"[[0, 7.44054], [8.86656, 10.60279]]",[],"[[30.06694, 40]]",roasting_turkey,False,test
+OGK_4AXi9x8_st80.0_dur40.0,OGK_4AXi9x8,80.0,40.0,"[[16.04566, 17.20565]]","[[17.24999, 19.83962]]","[[25.20028, 40.00798]]",melting_ghee,False,test
+apeXkJly3fs_st141.0_dur40.0,apeXkJly3fs,141.0,40.0,"[[14.16344, 15.991]]","[[16.02477, 23.251]]","[[23.28528, 24.958]]",melting_ghee,False,test
+GGSXWgSck0M_st48.0_dur40.0,GGSXWgSck0M,48.0,40.0,"[[0, 5.69264]]","[[25.32618, 35.62538], [39.61917, 40.00798]]",[],whipping_sugar,False,test
+m_Vu8-HeQGo_st272.0_dur40.0,m_Vu8-HeQGo,272.0,40.0,"[[0.01667, 15.48628]]","[[15.51964, 40.00798]]",[],whipping_sugar,False,test
+aGTWhojNJC0_st45.0_dur40.0,aGTWhojNJC0,45.0,40.0,"[[3.936, 26.05]]","[[26.09, 40.007]]",[],mashing_bean,False,test
+aIS4uVyBW68_st42.0_dur40.0,aIS4uVyBW68,42.0,40.0,"[[0, 20.63308]]","[[20.66644, 25.16883]]","[[25.2022, 40.00798]]",mashing_bean,False,test
+85ROqnKyatk_st286.0_dur40.0,85ROqnKyatk,286.0,40.0,"[[0, 5.03898]]","[[5.07234, 30.777]]","[[30.81037, 40.00798]]",coating_chicken,False,test
+Ysn9nA5hiZI_st74.0_dur40.0,Ysn9nA5hiZI,74.0,40.0,"[[0, 10.5]]","[[10.53346, 21.834], [35.08566, 40.007]]",[],coating_chicken,False,test
+3ZsSiogCu6s_st105.0_dur40.0,3ZsSiogCu6s,105.0,40.0,[],"[[14.55927, 22.19543]]","[[22.2288, 30.3411]]",chopping_chocolate,False,test
+paJ7fxAEzhM_st100.0_dur40.0,paJ7fxAEzhM,100.0,40.0,[],"[[1.80825, 5.82151]]","[[5.8615, 17.52678], [18.38572, 21.42436]]",chopping_chocolate,False,test
+W3TDh4uFKc8_st89.0_dur40.0,W3TDh4uFKc8,89.0,40.0,"[[14.18471, 14.91798]]","[[14.91798, 23.30527]]","[[23.30527, 40.00798]]",slicing_mango,False,test
+rNTjRt76CfU_st0.0_dur40.0,rNTjRt76CfU,0.0,40.0,"[[0, 2.17666], [3.32428, 5.69679]]",[],"[[14.0031, 15.52881], [15.8088, 20.17402], [20.86771, 40.00798]]",slicing_mango,False,test
+LjYh27x1FBo_st20.0_dur40.0,LjYh27x1FBo,20.0,40.0,"[[0, 15.38997]]","[[15.42334, 40.00798]]",[],frying_tortilla,False,test
+ieIS8d6QtKs_st363.0_dur40.0,ieIS8d6QtKs,363.0,40.0,"[[8.71024, 13.16456], [14.048, 14.54614], [16.58798, 17.82445]]","[[17.93298, 23.10649], [25.42886, 40.04]]",[],frying_tortilla,False,test
+0P5KV4YTIYg_st218.0_dur81.0,0P5KV4YTIYg,218.0,81.0,"[[0, 23.15265]]",[],"[[52.34082, 69.1], [73.26669, 81]]",blending_tomato,False,test
+D8ByYtKjWi0_st156.0_dur40.0,D8ByYtKjWi0,156.0,40.0,"[[0, 19.0264]]","[[33.87631, 35.54089]]","[[35.57426, 40.00798]]",blending_tomato,False,test
+57KtSv5Gku4_st28.0_dur57.0,57KtSv5Gku4,28.0,57.0,"[[14.09525, 14.83126]]","[[14.87292, 53.62406]]","[[53.66573, 57.00499]]",slicing_pepper,False,test
+jwIOXD86Vv4_st63.0_dur40.0,jwIOXD86Vv4,63.0,40.0,"[[0, 15.32621]]","[[15.32621, 25.64016]]","[[25.64016, 40.00798]]",slicing_pepper,False,test
+smtnmvrMbPg_st105.0_dur40.0,smtnmvrMbPg,105.0,40.0,[],"[[16.79738, 26.87224]]","[[26.90557, 40.00798]]",melting_jaggery,False,test
+l2pDvev4Scg_st397.0_dur52.0,l2pDvev4Scg,397.0,52.0,"[[0, 4.17699]]","[[4.58632, 46.6085]]",[],melting_jaggery,False,test
+OxkjKCK_GTU_st144.0_dur40.0,OxkjKCK_GTU,144.0,40.0,"[[27.37009, 29.37196]]",[],"[[29.40532, 40.00798]]",melting_candy,False,test
+sWv6uYSqmcU_st103.0_dur40.0,sWv6uYSqmcU,103.0,40.0,"[[1.91995, 29.67197]]","[[29.71196, 40.00798]]",[],crushing_ice,False,test
+FRAegW3JD50_st25.0_dur40.0,FRAegW3JD50,25.0,40.0,[],"[[16.10192, 28.07242]]","[[28.11242, 40.00798]]",crushing_ice,False,test
+_ypsz5YazFU_st40.0_dur40.0,_ypsz5YazFU,40.0,40.0,"[[0.10907, 3.75945]]",[],"[[30.55158, 37.59976]]",grilling_corn,False,test
+xNZzqYesX0k_st101.0_dur40.0,xNZzqYesX0k,101.0,40.0,"[[0, 20.06748]]","[[20.56795, 40.00798]]",[],grilling_corn,False,test
+eUBCSMaWkRc_st22.0_dur40.0,eUBCSMaWkRc,22.0,40.0,"[[9.4522, 22.8285]]","[[22.89513, 25.09511]]",[],blending_oat,False,test
+hPv0h4qPgNw_st458.0_dur40.0,hPv0h4qPgNw,458.0,40.0,"[[14.93015, 26.30563]]","[[26.50563, 40.00798]]",[],blending_oat,False,test
+ORSIMnM2o5w_st26.0_dur40.0,ORSIMnM2o5w,26.0,40.0,"[[12.89667, 27.36333]]","[[32.31, 40]]",[],rolling_meatball,False,test
+VDDNkh6yxeA_st190.0_dur40.0,VDDNkh6yxeA,190.0,40.0,"[[0, 20.84137]]","[[20.84137, 40.00798]]",[],rolling_meatball,False,test
+bFvs0hUNue0_st59.0_dur40.0,bFvs0hUNue0,59.0,40.0,"[[0, 2.12998], [4.26333, 5.42667], [7.57333, 8.27333], [12.8, 14.38667], [16.23, 17.57]]","[[19.25333, 20.49667], [22.91332, 24.64667], [32.28665, 33.00664]]","[[33.04664, 35.64333], [37.30333, 39.4]]",peeling_tomato,False,test
+kZtC2h_bc-0_st168.0_dur40.0,kZtC2h_bc-0,168.0,40.0,"[[1.40041, 16.73349]]","[[16.76686, 40.00798]]",[],peeling_tomato,False,test
+W33WOIpqHIs_st155.0_dur77.0,W33WOIpqHIs,155.0,77.0,"[[0, 14.85265]]","[[43.27286, 77.02059]]",[],browning_tofu,False,test
+K7kA47GI5RU_st29.0_dur40.0,K7kA47GI5RU,29.0,40.0,"[[10.66642, 19.01438]]","[[19.05438, 33.03591]]",[],browning_tofu,False,test
+I5Ff1mYT980_st167.0_dur40.0,I5Ff1mYT980,167.0,40.0,"[[0, 3.71291], [11.43173, 15.41368]]","[[15.4369, 19.73625]]","[[19.77625, 40.00798]]",grating_carrot,False,test
+Mizo9hIpZq0_st511.0_dur40.0,Mizo9hIpZq0,511.0,40.0,[],"[[20.98331, 23.88522], [27.20519, 31.3947]]","[[33.11066, 35.12505]]",grating_carrot,False,test
+58LiGepkHQQ_st499.0_dur40.0,58LiGepkHQQ,499.0,40.0,"[[0, 16.37639], [17.94802, 32.30846]]","[[32.3286, 40.00798]]",[],grilling_salmon,False,test
+YvpjQSCjNPM_st148.0_dur40.0,YvpjQSCjNPM,148.0,40.0,[],"[[0.04171, 7.1339]]","[[7.67609, 40.04]]",grilling_salmon,False,test
+xUGoBMUoinc_st393.0_dur40.0,xUGoBMUoinc,393.0,40.0,"[[15.55763, 16.4696]]","[[17.00861, 40.00798]]",[],browning_garlic,False,test
+nDRLpqpEDoA_st312.0_dur40.0,nDRLpqpEDoA,312.0,40.0,"[[16.53123, 18.0341]]","[[18.06746, 26.79807], [29.29414, 40.00798]]",[],browning_garlic,False,test
+yMmLRFadNv0_st109.0_dur40.0,yMmLRFadNv0,109.0,40.0,"[[26.50006, 32.70207]]",[],"[[32.73544, 40]]",shredding_zucchini,False,test
+L8-_YB9wfOc_st53.0_dur40.0,L8-_YB9wfOc,53.0,40.0,"[[0, 15.50019]]","[[15.53355, 22.20009], [26.23727, 31.00848]]","[[31.03343, 40]]",shredding_zucchini,False,test
+XRm1OfS6ZkE_st83.0_dur57.0,XRm1OfS6ZkE,83.0,57.0,[],"[[0, 24.53847], [49.9836, 57.00499]]","[[24.71605, 36.18333], [43.66747, 48.17394]]",mincing_shallot,False,test
+U9bmVydlZpw_st83.0_dur40.0,U9bmVydlZpw,83.0,40.0,"[[11.16555, 15.55822]]","[[15.59159, 36.10573]]",[],mincing_shallot,False,test
+e6lzMtBldGA_st84.0_dur40.0,e6lzMtBldGA,84.0,40.0,[],"[[0, 9.04873], [10.4034, 12.0656], [14.75324, 31.09099], [31.84743, 33.2513]]","[[33.2913, 36.97956], [37.25998, 37.41998], [39.52319, 40.00798]]",roasting_chicken,False,test
+KzMki5Tv1zM_st238.0_dur40.0,KzMki5Tv1zM,238.0,40.0,"[[5.72333, 7.893]]",[],"[[25.58666, 36.883]]",roasting_chicken,False,test
+NpNpRpv_mB0_st382.0_dur40.0,NpNpRpv_mB0,382.0,40.0,"[[12.99289, 18.37989]]","[[18.41325, 23.5665]]","[[23.59987, 40.00798]]",blending_garlic,False,test
+Q6oLC79UuJQ_st11.0_dur40.0,Q6oLC79UuJQ,11.0,40.0,"[[12.69666, 20.006]]","[[20.076, 26.789]]","[[26.86999, 40.007]]",blending_garlic,False,test
+589lJY-uUa8_st220.0_dur62.0,589lJY-uUa8,220.0,62.0,"[[2.95708, 19.36667]]","[[19.36667, 50.79861]]","[[50.81422, 62.0205]]",squeezing_lime,False,test
+ob1l3eZ7fQo_st269.0_dur40.0,ob1l3eZ7fQo,269.0,40.0,"[[0, 16.52186]]","[[18.52375, 24.28586]]",[],squeezing_lime,False,test
+ZVW2f4l_XaY_st88.0_dur40.0,ZVW2f4l_XaY,88.0,40.0,"[[23.92013, 29.9228]]","[[29.9628, 31.69096]]","[[31.73096, 37.30242]]",chopping_dill,False,test
+ISOxD4mwz-w_st127.0_dur40.0,ISOxD4mwz-w,127.0,40.0,[],"[[16.11331, 19.68937]]","[[19.72937, 40.00798]]",chopping_dill,False,test
+b1BJVSI5r3Y_st167.0_dur40.0,b1BJVSI5r3Y,167.0,40.0,"[[13.85065, 14.57756]]","[[14.61927, 21.15161]]","[[21.19331, 22.86128]]",mincing_parsley,False,test
+QZokEtjvDao_st43.0_dur40.0,QZokEtjvDao,43.0,40.0,"[[12.89128, 12.92464]]","[[12.958, 14.46334]]",[],mincing_parsley,False,test
+dMAsTkbkLr8_st138.0_dur40.0,dMAsTkbkLr8,138.0,40.0,"[[0, 22.17646]]","[[22.21646, 40]]",[],coating_bread,False,test
+dEdIBs1mRVE_st224.0_dur40.0,dEdIBs1mRVE,224.0,40.0,"[[0.44939, 4.17721]]","[[4.17721, 32.84736]]","[[32.84736, 40.00798]]",coating_bread,False,test
+8TIAerru6t0_st257.0_dur40.0,8TIAerru6t0,257.0,40.0,"[[6.0828, 16.58732]]",[],"[[16.62069, 22.49294]]",slicing_pineapple,False,test
+qtHZjBXGSZE_st29.0_dur40.0,qtHZjBXGSZE,29.0,40.0,[],"[[6.21999, 6.55938], [7.19538, 9.77298], [13.4004, 29.41985]]","[[35.33402, 38.82666]]",slicing_pineapple,False,test
+-7GLx29Xp4c_st74.0_dur40.0,-7GLx29Xp4c,74.0,40.0,"[[8.54998, 13.26998]]","[[13.30998, 19.02955]]","[[19.09846, 23.38528]]",mashing_tomato,False,test
+_tUyfWU8Xo4_st244.0_dur40.0,_tUyfWU8Xo4,244.0,40.0,"[[3.84514, 4.81996], [6.21992, 27.69814]]","[[27.73814, 32.63119]]",[],mashing_tomato,False,test
+DhaW3C8kkl8_st135.0_dur40.0,DhaW3C8kkl8,135.0,40.0,"[[11.47, 14.5]]",[],"[[17.24, 21.55333], [30.93, 40]]",crushing_walnut,False,test
+jI4xN5yElhQ_st51.0_dur40.0,jI4xN5yElhQ,51.0,40.0,"[[0, 22.016]]","[[24.01661, 38.56]]","[[38.59391, 40.007]]",crushing_walnut,False,test
+Y_lj0rOQ3Hs_st71.0_dur40.0,Y_lj0rOQ3Hs,71.0,40.0,[],"[[20.21333, 21.52]]","[[21.56, 22.74666]]",chopping_garlic,False,test
+dQU_tQTHIyA_st53.0_dur40.0,dQU_tQTHIyA,53.0,40.0,"[[8.7081, 15.932]]","[[15.97412, 21.576]]","[[21.61783, 24.197]]",chopping_garlic,False,test
+iH916edLU2U_st120.0_dur40.0,iH916edLU2U,120.0,40.0,"[[2.4793, 15.12383]]",[],"[[15.14705, 40.00798]]",blending_butter,False,test
+tLSc-6_Lvdk_st34.0_dur40.0,tLSc-6_Lvdk,34.0,40.0,"[[0.49014, 12.73745]]","[[14.72607, 37.65333]]",[],blending_butter,False,test
+7Xcb89INxoM_st999.0_dur54.0,7Xcb89INxoM,999.0,54.0,[],"[[28.75257, 40.17737]]","[[40.91069, 54.00961]]",chopping_parsley,False,test
+Balgnmz5Unc_st29.0_dur40.0,Balgnmz5Unc,29.0,40.0,"[[0, 16.18026]]","[[16.22026, 17.35112]]","[[17.39111, 24.1806]]",chopping_parsley,False,test
+Xs1Kd04-rDc_st512.0_dur40.0,Xs1Kd04-rDc,512.0,40.0,[],"[[16.13809, 28.18915]]","[[28.21237, 31.10759], [32.23259, 40.00798]]",browning_steak,False,test
+8mak0UTH56Q_st372.0_dur40.0,8mak0UTH56Q,372.0,40.0,"[[1.14729, 2.14726]]","[[2.18726, 24.62495], [26.77624, 30.24745]]","[[32.24133, 39.36373]]",browning_steak,False,test
+8diQIk459ZI_st227.0_dur40.0,8diQIk459ZI,227.0,40.0,"[[0, 6.68656]]","[[7.18463, 20.09801], [20.5457, 23.69454]]","[[30.38161, 33.78331], [34.26312, 40.00798]]",coating_cake,False,test
+X0B8lH2rRS8_st274.0_dur40.0,X0B8lH2rRS8,274.0,40.0,[],"[[0, 26.24853]]","[[26.27175, 40.00798]]",coating_cake,False,test
+UqljUgqIFxM_st151.0_dur40.0,UqljUgqIFxM,151.0,40.0,[],"[[16.88364, 20.413]]","[[21.49359, 21.743], [24.19644, 30.946]]",chopping_peanut,False,test
+KxrA0-P36Rs_st193.0_dur40.0,KxrA0-P36Rs,193.0,40.0,"[[16.66667, 21.5451]]","[[21.76164, 28.31178]]","[[28.47418, 31.45152]]",chopping_peanut,False,test
+UvFYHFNAMnI_st131.0_dur40.0,UvFYHFNAMnI,131.0,40.0,"[[9.84145, 26.34103]]","[[26.34103, 40.00798]]",[],whipping_milk,False,test
+AF8J1rMUahI_st251.0_dur40.0,AF8J1rMUahI,251.0,40.0,"[[13.35489, 20.819]]","[[20.85934, 31.683]]","[[31.72302, 32.199]]",whipping_milk,False,test
+q51UQwqA9to_st274.0_dur40.0,q51UQwqA9to,274.0,40.0,"[[0, 6.48333]]","[[6.91667, 19.933]]","[[21.32088, 40.00798]]",peeling_egg,False,test
+_JI_NKI4huw_st87.0_dur40.0,_JI_NKI4huw,87.0,40.0,"[[15.34101, 15.591]]","[[15.591, 20.99696]]","[[34.94796, 39.63562]]",peeling_egg,False,test
+qBcpU3g4aJk_st79.0_dur40.0,qBcpU3g4aJk,79.0,40.0,[],"[[17.36669, 29.19276]]","[[29.28743, 34.66749]]",browning_pork,False,test
+3qPdKdq8YuM_st252.0_dur40.0,3qPdKdq8YuM,252.0,40.0,"[[0, 8.20511]]","[[8.23848, 40]]",[],browning_pork,False,test
+89GXqCF8u6g_st248.0_dur40.0,89GXqCF8u6g,248.0,40.0,"[[13.06654, 20.00013]]",[],"[[30.71666, 40.00798]]",chopping_cucumber,False,test
+8fwsyepDVqA_st45.0_dur40.0,8fwsyepDVqA,45.0,40.0,"[[16.84548, 17.48547]]","[[17.87952, 19.36265], [19.88265, 30.67638]]","[[30.71638, 40.00798]]",chopping_cucumber,False,test
+0sGwS5pV2Ac_st681.0_dur40.0,0sGwS5pV2Ac,681.0,40.0,[],"[[0, 9.70392]]","[[9.73728, 16.14606]]",frying_shallot,False,test
+GezQyVRQRzU_st279.0_dur40.0,GezQyVRQRzU,279.0,40.0,"[[6.09639, 14.63095], [16.74545, 18.74965]]","[[18.79136, 20.82782], [27.6151, 31.87715]]","[[35.27445, 39.74804]]",frying_shallot,False,test
+rJpIDcKVoHA_st234.0_dur40.0,rJpIDcKVoHA,234.0,40.0,"[[15.97, 17.50098]]","[[17.54098, 27.50599]]","[[27.54599, 36.37157]]",chopping_chive,False,test
+MMtlZ8DEZTo_st49.0_dur40.0,MMtlZ8DEZTo,49.0,40.0,[],"[[9.86685, 13.71995]]","[[13.766, 31.17134]]",chopping_chive,False,test
+oEPHJDfhYH8_st77.0_dur97.0,oEPHJDfhYH8,77.0,97.0,"[[9.24069, 62.86617]]","[[62.89954, 82.20049]]","[[82.23386, 97.03027]]",melting_shortening,False,test
+HbXJi5Hiq98_st30.0_dur40.0,HbXJi5Hiq98,30.0,40.0,"[[7.4781, 11.97], [17.13637, 17.47]]","[[17.50338, 40.008]]",[],melting_shortening,False,test
+pemz-4gHjPg_st92.0_dur40.0,pemz-4gHjPg,92.0,40.0,[],"[[19.7019, 23.489]]","[[34.5033, 40.00798]]",chopping_broccoli,False,test
+fVQcyyFHPNg_st377.0_dur40.0,fVQcyyFHPNg,377.0,40.0,"[[14.05667, 15.96395]]","[[18.10664, 21.59087]]","[[23.94171, 24.93674]]",chopping_broccoli,False,test
+FNhQd34ijoE_st211.0_dur40.0,FNhQd34ijoE,211.0,40.0,"[[23.13666, 26.0926]]","[[26.1326, 40.00798]]",[],sauteing_ginger,False,test
+PX6Wl4jHE-M_st63.0_dur40.0,PX6Wl4jHE-M,63.0,40.0,"[[15.11666, 22.28892]]","[[22.36892, 26.18617]]",[],sauteing_ginger,False,test
+pJ9RCN2iA8c_st98.0_dur77.0,pJ9RCN2iA8c,98.0,77.0,[],"[[20.26286, 33.41437]]","[[43.04387, 48.54901]]",browning_butter,False,test
+el1nQeCTb7g_st5.0_dur40.0,el1nQeCTb7g,5.0,40.0,[],"[[5.10869, 24.54992]]","[[30.40032, 33.53366]]",browning_butter,False,test
+Ow9pGXT3KwY_st35.0_dur40.0,Ow9pGXT3KwY,35.0,40.0,"[[0, 15.56651]]","[[15.60651, 20.49301], [25.25323, 26.22273]]","[[29.47406, 31.00893], [33.96663, 35.6119], [37.10252, 40.00798]]",frying_mushroom,False,test
+Z5UICM4D_iw_st51.0_dur40.0,Z5UICM4D_iw,51.0,40.0,"[[0, 7.19332]]","[[22.16665, 40.00798]]",[],frying_mushroom,False,test
+XLViXrhHuW4_st109.0_dur40.0,XLViXrhHuW4,109.0,40.0,"[[15.14427, 17.32468]]","[[17.36465, 20.77254]]","[[28.28447, 30.91244], [35.24081, 37.70632]]",grating_chocolate,False,test
+j4cVHDU9FRg_st249.0_dur40.0,j4cVHDU9FRg,249.0,40.0,[],"[[12.01667, 17.87666]]","[[17.91666, 30.56666]]",grating_chocolate,False,test
+dj6EAGHxIUA_st208.0_dur40.0,dj6EAGHxIUA,208.0,40.0,"[[8.97508, 11.40504], [14.9351, 16.05241]]","[[16.09411, 30.16592]]","[[30.20763, 40.04]]",slicing_garlic,False,test
+MGfAcz9Oj98_st67.0_dur40.0,MGfAcz9Oj98,67.0,40.0,"[[17.66381, 27.35401]]","[[27.35401, 32.52939]]",[],roasting_chickpea,False,test
+4LbLijypyBM_st110.0_dur40.0,4LbLijypyBM,110.0,40.0,"[[0, 10.06093]]","[[10.70971, 16.86308]]","[[17.514, 34.70072]]",shredding_potato,False,test
+eduO6vziAF0_st69.0_dur40.0,eduO6vziAF0,69.0,40.0,"[[0, 0.31999], [7.77913, 12.32183]]",[],"[[12.52183, 14.72263], [15.88687, 27.08], [32.93, 40.00798]]",shredding_potato,False,test
+0Zeu0mzpF3E_st91.0_dur40.0,0Zeu0mzpF3E,91.0,40.0,"[[4.04964, 19.36093]]","[[19.48092, 40.00798]]",[],roasting_potato,False,test
+wz_GRBf17wI_st250.0_dur52.0,wz_GRBf17wI,250.0,52.0,"[[0.06666, 24.55]]",[],"[[26.48333, 49.55]]",roasting_potato,False,test
+5qCOPUgOOC0_st100.0_dur40.0,5qCOPUgOOC0,100.0,40.0,"[[0, 3.16655]]","[[3.20655, 10.59375]]","[[10.63375, 25.59583]]",chopping_cilantro,False,test
+uyFOhoIWt78_st220.0_dur40.0,uyFOhoIWt78,220.0,40.0,"[[0, 14.82158]]","[[14.86329, 21.99493]]","[[22.03664, 35.80302]]",chopping_cilantro,False,test
+EbZEUq5GZDQ_st502.0_dur40.0,EbZEUq5GZDQ,502.0,40.0,"[[14.16849, 14.48069]]",[],"[[14.96437, 40.00798]]",blending_almond,False,test
+LE6rAlLb5rg_st79.0_dur40.0,LE6rAlLb5rg,79.0,40.0,"[[8.33729, 18.58518]]","[[18.61851, 20.07277]]","[[20.31721, 40]]",blending_almond,False,test
+mlC1uaiB2uU_st176.0_dur40.0,mlC1uaiB2uU,176.0,40.0,[],"[[3.85997, 9.33666], [14.83667, 21.06333], [25.61666, 34.97]]","[[35.13, 38.8]]",coating_tofu,False,test
+3LswxUl05us_st42.0_dur40.0,3LswxUl05us,42.0,40.0,"[[7.68349, 16.46404]]","[[16.4974, 24.93592]]","[[25.13611, 34.85049], [36.11626, 37.7747], [39.56787, 40.00798]]",coating_tofu,False,test
+Me-GWJS3P0Q_st184.0_dur40.0,Me-GWJS3P0Q,184.0,40.0,"[[23.44018, 23.64037]]","[[23.67373, 27.91896], [28.81982, 31.75797]]","[[31.79134, 33.14024]]",melting_sugar,False,test
+SXiyp3-sO4M_st107.0_dur40.0,SXiyp3-sO4M,107.0,40.0,"[[0, 15.21806]]","[[15.25143, 40.00798]]",[],melting_sugar,False,test
+zPs7LK_o6wA_st35.0_dur40.0,zPs7LK_o6wA,35.0,40.0,"[[5.12759, 6.48222]]","[[9.79697, 21.55424]]","[[21.59424, 29.13444], [31.4438, 37.35582]]",chopping_ginger,False,test
+lMM-1D4-dK8_st30.0_dur40.0,lMM-1D4-dK8,30.0,40.0,"[[14.0833, 22.00039], [23.76909, 24.30963]]","[[26.64532, 27.94137], [30.56341, 31.66574], [33.46204, 38.1123]]","[[38.1523, 38.53513]]",chopping_ginger,False,test
+v6IFo8H_li0_st71.0_dur40.0,v6IFo8H_li0,71.0,40.0,"[[0.38864, 18.442]]","[[18.46572, 25.184]]",[],squeezing_lemon,False,test
+6dJZV4POWhw_st379.0_dur40.0,6dJZV4POWhw,379.0,40.0,[],"[[18.55855, 19.73222]]","[[19.77221, 40]]",squeezing_lemon,False,test
+UOVVGlxoR6A_st143.0_dur40.0,UOVVGlxoR6A,143.0,40.0,"[[0.06685, 0.86902]]","[[4.18278, 18.81703]]",[],browning_meatball,False,test
+t8h_-bQ8JJU_st103.0_dur40.0,t8h_-bQ8JJU,103.0,40.0,[],"[[17.10333, 21.12], [21.83999, 22.71999], [25.08, 31.40333]]","[[34.97, 38.36997]]",browning_meatball,False,test
+P-ByAhWQS54_st77.0_dur40.0,P-ByAhWQS54,77.0,40.0,"[[2.67333, 10.09044]]","[[10.09044, 20.11]]","[[20.11, 29.02]]",crushing_cracker,False,test
+UcQNDO-4jxg_st80.0_dur40.0,UcQNDO-4jxg,80.0,40.0,"[[8.58333, 12.2346], [14.13375, 24.14201]]","[[24.17534, 40.00798]]",[],crushing_cracker,False,test
+xed2EfO9BRc_st256.0_dur40.0,xed2EfO9BRc,256.0,40.0,"[[15.73665, 21.04905]]","[[21.08905, 32.09369]]","[[32.13369, 32.81888]]",chopping_lettuce,False,test
+sIM1zjOs7Og_st160.0_dur40.0,sIM1zjOs7Og,160.0,40.0,"[[21.13883, 22.64203]]",[],"[[22.697, 23.77902]]",chopping_lettuce,False,test
+Xe6FZb8YCyo_st89.0_dur40.0,Xe6FZb8YCyo,89.0,40.0,"[[9.2408, 15.34263]]","[[15.38434, 21.98318]]",[],melting_cheese,False,test
+i_4F0upWq_w_st143.0_dur40.0,i_4F0upWq_w,143.0,40.0,"[[0.06666, 20]]",[],"[[20.53332, 37.35001]]",melting_cheese,False,test
+LJkbWwkoLHI_st261.0_dur40.0,LJkbWwkoLHI,261.0,40.0,"[[6.38456, 8.52693]]","[[8.72712, 21.80285]]","[[21.83621, 40.00798]]",melting_margarine,False,test
+3aRtM_NtROA_st57.0_dur40.0,3aRtM_NtROA,57.0,40.0,"[[0, 16.23671]]",[],"[[16.31128, 40.04474]]",melting_margarine,False,test
+U72lBve5zF4_st362.0_dur54.0,U72lBve5zF4,362.0,54.0,[],"[[0, 47.842]]","[[48.56223, 54.009]]",browning_potato,False,test
+Q5xSwMgqnMQ_st106.0_dur40.0,Q5xSwMgqnMQ,106.0,40.0,[],"[[0, 35.88464]]","[[36.16464, 40.00798]]",browning_potato,False,test
+AFX3Y0lROW4_st144.0_dur40.0,AFX3Y0lROW4,144.0,40.0,"[[17.31664, 18.19911]]","[[18.27911, 40]]",[],frying_fish,False,test
+Ig5iUoCHeaE_st205.0_dur69.0,Ig5iUoCHeaE,205.0,69.0,[],"[[0, 11.35415]]","[[11.38748, 52.41993]]",frying_fish,False,test
+eZIuTi4-fJY_st109.0_dur40.0,eZIuTi4-fJY,109.0,40.0,"[[10.36665, 10.46665]]","[[10.49998, 40]]",[],frying_onion,False,test
+L7iIYjlrUEE_st972.0_dur40.0,L7iIYjlrUEE,972.0,40.0,"[[19.8559, 21.72769]]","[[21.80769, 30.38079], [32.62075, 40.00798]]",[],frying_onion,False,test
+Ar_Ru8p06Kg_st314.0_dur40.0,Ar_Ru8p06Kg,314.0,40.0,"[[10.90665, 11.06665]]","[[11.10665, 40.00798]]",[],frying_egg,False,test
+rOkijC520ng_st0.0_dur40.0,rOkijC520ng,0.0,40.0,"[[16.3388, 17.14063], [20.31205, 24.52676]]","[[33.15845, 36.6379], [37.67047, 40.00798]]",[],frying_egg,False,test
+jSBHemlecI0_st125.0_dur75.0,jSBHemlecI0,125.0,75.0,"[[24.86409, 28.77104]]","[[49.8765, 66.91074]]","[[66.95074, 73.8723]]",coating_shrimp,False,test
+PehAnECjGsk_st265.0_dur40.0,PehAnECjGsk,265.0,40.0,[],"[[0, 0.44079], [1.16183, 19.7851]]","[[19.8251, 40.00798]]",coating_shrimp,False,test
+AfnrwvkLoyw_st223.0_dur40.0,AfnrwvkLoyw,223.0,40.0,[],"[[2.47261, 12.22218]]","[[16.18628, 40]]",grilling_onion,False,test
+0E0l1ao9Mpc_st89.0_dur40.0,0E0l1ao9Mpc,89.0,40.0,"[[7.24884, 22.14101]]","[[22.17437, 38.41929]]","[[38.45266, 40.00798]]",grilling_onion,False,test
+aPHrYVjSTIc_st110.0_dur40.0,aPHrYVjSTIc,110.0,40.0,"[[0, 2.96876], [15.21163, 20.59182]]","[[20.63352, 40.04]]",[],melting_chocolate,False,test
+0lnMq86fAD0_st546.0_dur40.0,0lnMq86fAD0,546.0,40.0,"[[8.254, 9.43], [11.19732, 14.5876]]",[],"[[19.71827, 21.83493]]",melting_chocolate,False,test
+INsxZsGwGOo_st67.0_dur40.0,INsxZsGwGOo,67.0,40.0,"[[14.40798, 18.87946]]","[[18.91945, 27.64908]]","[[27.68908, 40.00798]]",peeling_shrimp,False,test
+yARNHPu5qKA_st24.0_dur40.0,yARNHPu5qKA,24.0,40.0,"[[0, 23.25403]]","[[23.29403, 40]]",[],peeling_shrimp,False,test
+B6jgi0fRNrI_st4.0_dur95.0,B6jgi0fRNrI,4.0,95.0,"[[17.22511, 21.37219]]","[[21.41218, 45.56704]]","[[45.60704, 69.32981]]",slicing_potato,False,test
+-wCg4_nRSTQ_st17.0_dur40.0,-wCg4_nRSTQ,17.0,40.0,"[[0, 20.29355]]","[[20.33355, 34.41331]]","[[34.45331, 36.65059]]",slicing_potato,False,test
+miVwTeFpBxs_st6.0_dur40.0,miVwTeFpBxs,6.0,40.0,"[[1.49537, 9.62349], [15.67838, 16.80915], [17.21691, 18.76432]]","[[18.87361, 20.80634]]","[[23.35949, 27.52653], [28.04653, 28.8608], [29.57805, 30.66892], [31.29417, 31.72378], [31.96377, 33.02213], [33.82212, 35.07816], [36.43815, 39.44731]]",crushing_biscuit,False,test
+juV3jcZqk5o_st729.0_dur40.0,juV3jcZqk5o,729.0,40.0,[],"[[0, 2.03678], [4.73802, 6.50266]]","[[16.21963, 25.73902]]",crushing_biscuit,False,test
+DfPtjxRhCXk_st146.0_dur40.0,DfPtjxRhCXk,146.0,40.0,"[[0, 10.15699]]","[[10.15699, 29.00333]]","[[29.00333, 40.00798]]",grating_lemon,False,test
+hPZmGUKOxLo_st211.0_dur40.0,hPZmGUKOxLo,211.0,40.0,"[[11.20976, 13.52423]]","[[14.55421, 34.55771]]","[[34.5833, 37.45065]]",grating_lemon,False,test
+VSJbZt2sm2Q_st5.0_dur40.0,VSJbZt2sm2Q,5.0,40.0,"[[0, 13.60854], [14.82108, 16.0991]]","[[16.0991, 21.48722]]","[[21.53336, 32.24003]]",crushing_strawberry,False,test
+VNUVv5yG1Gk_st77.0_dur40.0,VNUVv5yG1Gk,77.0,40.0,[],"[[0, 35.41952]]","[[35.45285, 40.00798]]",crushing_strawberry,False,test
+G0Deq-xU3_I_st169.0_dur40.0,G0Deq-xU3_I,169.0,40.0,"[[0, 20.64051]]","[[20.69, 25.5591]]",[],shredding_chicken,False,test
+XOTQYLSj7GY_st88.0_dur40.0,XOTQYLSj7GY,88.0,40.0,"[[14.51861, 15.5191], [19.04828, 23.96678]]","[[23.96678, 32.50943]]","[[32.50943, 40.00798]]",shredding_chicken,False,test
+AtWwRyr6DGU_st11.0_dur40.0,AtWwRyr6DGU,11.0,40.0,"[[7.62728, 8.64426], [10.16069, 13.76797]]","[[15.64691, 18.70384], [29.79138, 32.35522]]",[],browning_onion,False,test
+y4hUNVlrAj0_st502.0_dur40.0,y4hUNVlrAj0,502.0,40.0,"[[1.54316, 9.093]]","[[9.13315, 28.661]]","[[28.70181, 40.007]]",browning_onion,False,test
+OlkVezqv0FE_st36.0_dur46.0,OlkVezqv0FE,36.0,46.0,"[[5.5207, 14.33581]]","[[18.04306, 36.78955]]","[[36.78955, 46.02195]]",chopping_strawberry,False,test
+L0NcY22P378_st40.0_dur40.0,L0NcY22P378,40.0,40.0,[],"[[0, 7.98438]]","[[8.01775, 34.43994]]",chopping_strawberry,False,test
+ep2K-jFnyT4_st209.0_dur40.0,ep2K-jFnyT4,209.0,40.0,[],"[[0, 15.94589]]","[[19.15209, 20.85128], [21.32624, 25.5623], [30.13186, 30.72786], [37.33787, 40.00798]]",frying_shrimp,False,test
+jN1LmSsze1s_st174.0_dur40.0,jN1LmSsze1s,174.0,40.0,"[[0, 19.61664], [21.90936, 24.30022]]","[[24.33355, 40.00798]]",[],frying_shrimp,False,test
+EVOigycz5ls_st406.0_dur40.0,EVOigycz5ls,406.0,40.0,"[[28.1164, 36.92488]]","[[36.93353, 40.00798]]",[],chopping_avocado,False,test
+vrOxUJGhBpo_st114.0_dur40.0,vrOxUJGhBpo,114.0,40.0,[],"[[4.22006, 6.7296]]","[[15.82635, 32.79313]]",chopping_avocado,False,test
+B4XGDE3xV4k_st161.0_dur46.0,B4XGDE3xV4k,161.0,46.0,"[[17.357, 18.157]]","[[18.191, 24.56]]","[[24.594, 43.642]]",zesting_lemon,False,test
+_150IMz1JCw_st109.0_dur40.0,_150IMz1JCw,109.0,40.0,"[[0, 19.22642]]","[[19.26642, 23.24278], [23.79852, 24.31851], [24.8385, 26.75849], [28.2079, 28.72789], [29.88027, 30.24025]]",[],zesting_lemon,False,test
+O93fisLtKK4_st230.0_dur40.0,O93fisLtKK4,230.0,40.0,"[[0, 9.70247]]","[[10.51573, 22.93685]]","[[22.97685, 40.008]]",slicing_meat,False,test
+y_FJGoyiIRo_st114.0_dur40.0,y_FJGoyiIRo,114.0,40.0,"[[0, 29.79775]]","[[29.79775, 40.00798]]",[],slicing_meat,False,test
+IraPAYfteFQ_st159.0_dur40.0,IraPAYfteFQ,159.0,40.0,"[[3.71086, 15.32007]]","[[15.40702, 30.99468]]",[],frying_sausage,False,test
+HAOCHHWmW7s_st510.0_dur40.0,HAOCHHWmW7s,510.0,40.0,"[[7.20944, 13.09269]]","[[13.13269, 17.27936], [26.93543, 32.27506]]",[],frying_sausage,False,test
+zjtOPab_XeE_st46.0_dur40.0,zjtOPab_XeE,46.0,40.0,"[[15.17581, 20.99211]]","[[20.99211, 39.97678]]",[],peeling_avocado,False,test
+C_HU5BWlZgM_st73.0_dur40.0,C_HU5BWlZgM,73.0,40.0,"[[0, 31.96965]]","[[32.00302, 32.86378]]","[[32.89715, 40.00798]]",peeling_avocado,False,test
+nQDq-ORm78I_st151.0_dur40.0,nQDq-ORm78I,151.0,40.0,[],"[[16.669, 22.65763]]","[[35.28878, 40.00798]]",slicing_strawberry,False,test
+Ugh4ZIk45sc_st584.0_dur40.0,Ugh4ZIk45sc,584.0,40.0,"[[11.58843, 18.16974], [19.20973, 21.98141]]",[],"[[22.32671, 25.908], [26.62108, 40.00798]]",slicing_strawberry,False,test
+84p6ihpLNLc_st103.0_dur40.0,84p6ihpLNLc,103.0,40.0,"[[10.814, 12.003]]","[[13.468, 20.498]]",[],grating_orange,False,test
+Zjd40aWNuFo_st426.0_dur40.0,Zjd40aWNuFo,426.0,40.0,"[[14.53613, 19.41242]]","[[19.45242, 30.90383]]","[[31.10383, 37.56506]]",grating_orange,False,test
+T5YlSB-zgvE_st443.0_dur40.0,T5YlSB-zgvE,443.0,40.0,"[[11.29033, 16.65616]]","[[16.69243, 22.49282]]","[[22.53282, 29.1503]]",chopping_basil,False,test
+luv4nHySfVo_st48.0_dur40.0,luv4nHySfVo,48.0,40.0,"[[17.88667, 18.92911]]","[[18.96911, 21.01283]]","[[32.43838, 37.2783]]",chopping_basil,False,test
+vltKSzP9uKM_st71.0_dur40.0,vltKSzP9uKM,71.0,40.0,"[[18.61436, 20.37432]]","[[20.57432, 23.2943]]",[],grating_onion,False,test
+qztfdU094LU_st9.0_dur40.0,qztfdU094LU,9.0,40.0,"[[10.80977, 17.00903]]",[],"[[18.48329, 30.85897]]",grating_onion,False,test
+XlTD0wwhZa4_st104.0_dur48.0,XlTD0wwhZa4,104.0,48.0,[],"[[25.562, 29.705], [32.003, 33.247]]","[[45.237, 48.01887]]",crushing_nut,False,test
+chmq4FlBCoE_st22.0_dur48.0,chmq4FlBCoE,22.0,48.0,"[[0.06667, 7.92331], [8.80328, 9.00328], [13.40661, 14.2466]]","[[14.2866, 27.78]]","[[27.82012, 39.77847], [40.80875, 48.01887]]",crushing_nut,False,test
+s6KUVUqEnSc_st169.0_dur40.0,s6KUVUqEnSc,169.0,40.0,"[[7.05271, 10.53438], [15.6225, 22.8971]]",[],"[[29.23256, 30.40244], [35.21567, 40.00798]]",chopping_kale,False,test
+wUoQjnqdcGk_st187.0_dur40.0,wUoQjnqdcGk,187.0,40.0,"[[2.834, 3.434], [4.882, 12.562]]","[[12.602, 18.898]]","[[18.938, 27.05125]]",chopping_kale,False,test
+E10jyARb6J0_st69.0_dur40.0,E10jyARb6J0,69.0,40.0,"[[8.53666, 10.05392], [13.07554, 14.07553]]","[[14.71552, 18.48459], [19.39378, 28.2164]]","[[30.40198, 32.40195]]",slicing_pear,False,test
+zNLqPMZjoBg_st27.0_dur58.0,zNLqPMZjoBg,27.0,58.0,"[[0, 10.01322]]","[[10.13322, 25.03999], [37.88919, 44.36928]]","[[44.64927, 58.00345]]",slicing_pear,False,test
+8gcBGxF0IWI_st69.0_dur40.0,8gcBGxF0IWI,69.0,40.0,"[[11.48, 13.99998]]","[[17.08495, 18.08494]]","[[19.05, 26.78999], [30.25999, 40]]",blending_onion,False,test
+ESU9Gx-LGvI_st21.0_dur40.0,ESU9Gx-LGvI,21.0,40.0,"[[8.57667, 12.777]]","[[16.07405, 40.007]]",[],blending_onion,False,test
+3v2hZ2oERJw_st190.0_dur40.0,3v2hZ2oERJw,190.0,40.0,"[[0, 19.86007]]","[[19.90007, 21.58641], [24.06738, 26.48811]]","[[28.98072, 40.00798]]",blending_mango,False,test
+9Q--2MpXEQY_st138.0_dur40.0,9Q--2MpXEQY,138.0,40.0,"[[14.441, 19.73859]]","[[19.73859, 23.065]]",[],blending_mango,False,test
+Tx54QeFOE6s_st269.0_dur40.0,Tx54QeFOE6s,269.0,40.0,"[[3.18378, 15.69592]]","[[15.72929, 40.00798]]",[],blending_egg,False,test
+VuEBQ_2u_gM_st42.0_dur40.0,VuEBQ_2u_gM,42.0,40.0,"[[7.61121, 9.75], [10.18206, 11.08341]]","[[11.11678, 22.51244], [23.01071, 38.07109]]",[],blending_egg,False,test
+nmZNjjH3vug_st516.0_dur40.0,nmZNjjH3vug,516.0,40.0,"[[0, 25.28775]]","[[25.32111, 40.00798]]",[],grilling_fish,False,test
+unBjMx7O_rI_st146.0_dur40.0,unBjMx7O_rI,146.0,40.0,"[[1.00094, 18.57935]]","[[19.34526, 30.62435], [33.05048, 40.00798]]",[],grilling_fish,False,test
+NDG2r7PgXe8_st205.0_dur40.0,NDG2r7PgXe8,205.0,40.0,"[[11.32039, 30.08603]]","[[30.1194, 32.47721]]","[[32.51058, 40.00798]]",crushing_peanut,False,test
+9ggwrpG5Xzs_st324.0_dur40.0,9ggwrpG5Xzs,324.0,40.0,"[[0, 1.548], [12.606, 19.414]]","[[19.45498, 22.415]]","[[37.462, 40.007]]",crushing_peanut,False,test
+oOIHZSRh_OI_st139.0_dur40.0,oOIHZSRh_OI,139.0,40.0,"[[5.73, 17.209]]","[[17.249, 27.398]]","[[27.438, 40.00798]]",peeling_eggplant,False,test
+jeH1I2W29hQ_st141.0_dur40.0,jeH1I2W29hQ,141.0,40.0,"[[0, 36.01239]]","[[36.04889, 40.00798]]",[],peeling_eggplant,False,test
+TIHP8CWq37Q_st243.0_dur40.0,TIHP8CWq37Q,243.0,40.0,"[[14.15088, 16.54153]]","[[16.54153, 40.00798]]",[],mincing_onion,False,test
+hwuBgD6Nuwg_st116.0_dur40.0,hwuBgD6Nuwg,116.0,40.0,"[[7.16959, 17.17259], [22.19794, 38.77969]]","[[38.81969, 40.00798]]",[],mincing_onion,False,test
+BzaBYFIEFNY_st0.0_dur40.0,BzaBYFIEFNY,0.0,40.0,"[[0.29941, 11.78315], [12.10315, 15.82331]]","[[15.90331, 23.652]]","[[23.69222, 40.00798]]",peeling_onion,False,test
+B0lKTI1dnQ4_st142.0_dur40.0,B0lKTI1dnQ4,142.0,40.0,"[[0, 2.7464], [12.81113, 17.44285]]","[[17.47619, 21.16649]]",[],peeling_onion,False,test
+R20iR_Ac2Tk_st217.0_dur40.0,R20iR_Ac2Tk,217.0,40.0,[],"[[18.02117, 19.62269]]","[[19.6748, 21.01332], [39.87452, 40.00798]]",chopping_carrot,False,test
+Rv_XPgAna0s_st234.0_dur40.0,Rv_XPgAna0s,234.0,40.0,[],"[[17.8967, 28.48141]]","[[28.55054, 29.85221]]",chopping_carrot,False,test
+UB3ZaMc3eT4_st259.0_dur40.0,UB3ZaMc3eT4,259.0,40.0,"[[0, 11.38782], [20.30874, 27.93797]]",[],"[[33.71556, 36.31036]]",blending_sugar,False,test
+ih9nRQjSYhk_st61.0_dur40.0,ih9nRQjSYhk,61.0,40.0,"[[14.34638, 20.60942]]","[[20.60942, 24.95186]]","[[24.95186, 40.04]]",blending_sugar,False,test
+iz6QMa1iNgQ_st220.0_dur53.0,iz6QMa1iNgQ,220.0,53.0,"[[16.29533, 24.5208]]","[[24.55413, 31.3383]]","[[31.4668, 44.71285]]",chopping_spinach,False,test
+v6K1-El-nFI_st13.0_dur40.0,v6K1-El-nFI,13.0,40.0,"[[0, 0.67821]]","[[0.67821, 10.15191]]","[[10.15191, 15.39277]]",chopping_spinach,False,test
+7E0w7K0anuQ_st65.0_dur40.0,7E0w7K0anuQ,65.0,40.0,"[[0, 8.00721]]","[[8.04721, 15.3381], [19.25806, 21.48647]]","[[21.52647, 37.727]]",frying_okra,False,test
+VZg4YOifj28_st83.0_dur40.0,VZg4YOifj28,83.0,40.0,"[[26.29421, 26.65421]]","[[26.69421, 31.69132], [38.76999, 40.00798]]",[],frying_okra,False,test
+J0opI-c5rmE_st196.0_dur40.0,J0opI-c5rmE,196.0,40.0,"[[19.0607, 29.47866]]",[],"[[30.63873, 40.00798]]",roasting_asparagus,False,test
+v2HWjtfBsIA_st28.0_dur40.0,v2HWjtfBsIA,28.0,40.0,"[[0, 16.15]]",[],"[[17.73352, 21.8572]]",roasting_asparagus,False,test
+6TmlF0AMaqc_st118.0_dur40.0,6TmlF0AMaqc,118.0,40.0,"[[0, 1.6522]]","[[18.30121, 40.04]]",[],grilling_tomato,False,test
+EQryW-4VDrQ_st194.0_dur40.0,EQryW-4VDrQ,194.0,40.0,"[[15.55801, 20.3197]]","[[20.3197, 23.46914]]","[[25.28327, 34.82541]]",grilling_tomato,False,test
+ZZBm2q3QFyE_st179.0_dur40.0,ZZBm2q3QFyE,179.0,40.0,"[[13.62898, 15.18333]]","[[15.21666, 19.74999]]","[[19.84999, 23.4]]",grating_apple,False,test
+GafNoUfybNY_st18.0_dur40.0,GafNoUfybNY,18.0,40.0,"[[7.8934, 12.87631], [13.67747, 25.3849]]","[[27.56129, 33.02598]]","[[33.06598, 39.08423]]",grating_apple,False,test
+W4060790E_A_st113.0_dur40.0,W4060790E_A,113.0,40.0,"[[19.08751, 21.34271]]","[[21.38271, 25.45974]]",[],grating_nutmeg,False,test
+HAiJW31yeCA_st271.0_dur40.0,HAiJW31yeCA,271.0,40.0,"[[13.84967, 16.68359]]","[[16.71695, 21.35044]]","[[21.38381, 32.15041], [34.46683, 40]]",grating_nutmeg,False,test
+q3xrlejQx7g_st113.0_dur40.0,q3xrlejQx7g,113.0,40.0,"[[9.82, 14.39294]]","[[14.43294, 19.87164]]","[[19.91164, 40.00798]]",mashing_chickpea,False,test
+f5oUUuIzSeE_st85.0_dur40.0,f5oUUuIzSeE,85.0,40.0,"[[5.7736, 14.72846]]","[[14.99512, 24.12873]]","[[24.37278, 30.78323], [32.3011, 36.9377]]",mashing_chickpea,False,test
+b1jVzfnWE3w_st176.0_dur40.0,b1jVzfnWE3w,176.0,40.0,"[[0, 11.53814]]","[[11.57814, 37.81835]]","[[37.85835, 40.00798]]",squeezing_tomato,False,test
+eBoWPM-kCA8_st41.0_dur40.0,eBoWPM-kCA8,41.0,40.0,"[[3.82999, 16.09333]]","[[16.13333, 33.87333]]","[[33.91333, 40]]",squeezing_tomato,False,test
+ZRXDkdhgyc8_st56.0_dur40.0,ZRXDkdhgyc8,56.0,40.0,[],"[[16.16826, 27.36883]]","[[27.66912, 40.00798]]",frying_tomato,False,test
+eXNwHEtzmVE_st159.0_dur40.0,eXNwHEtzmVE,159.0,40.0,"[[17.43671, 19.74961]]","[[19.78961, 35.55868]]",[],frying_tomato,False,test
+0PPOovV2RX4_st4.0_dur40.0,0PPOovV2RX4,4.0,40.0,"[[8.59366, 20.26031]]",[],"[[20.26031, 37.46106], [39.52738, 40.00798]]",roasting_eggplant,False,test
+aPAOx6eOvvk_st95.0_dur40.0,aPAOx6eOvvk,95.0,40.0,"[[0, 16.8371]]",[],"[[16.8371, 37.4831]]",roasting_eggplant,False,test
+uWd0kMzSQYI_st267.0_dur40.0,uWd0kMzSQYI,267.0,40.0,"[[3.0447, 6.63905], [8.11092, 9.05022], [14.65851, 15.81896]]","[[15.86067, 19.06644]]","[[19.10815, 23.90711], [28.959, 31.24308]]",chopping_walnut,False,test
+VMf3d92s4h0_st148.0_dur40.0,VMf3d92s4h0,148.0,40.0,[],"[[14.1959, 21.82987]]","[[21.87333, 30.97731]]",chopping_walnut,False,test
+EDV4TVl9aCk_st0.0_dur40.0,EDV4TVl9aCk,0.0,40.0,[],"[[8.07789, 37.592]]","[[37.82558, 40.007]]",slicing_watermelon,False,test
+CeymGfOwddw_st336.0_dur40.0,CeymGfOwddw,336.0,40.0,"[[0, 31.80003]]","[[31.8334, 40]]",[],slicing_watermelon,False,test
+FqE2H-08gKo_st237.0_dur40.0,FqE2H-08gKo,237.0,40.0,"[[5.96668, 18.10211]]","[[18.14211, 40.00798]]",[],frying_plantain,False,test
+aTgMVnKNbrI_st45.0_dur40.0,aTgMVnKNbrI,45.0,40.0,"[[7.33328, 14.69999]]","[[17.53332, 37.76667]]",[],frying_plantain,False,test
+aaCBRj8zBrw_st39.0_dur41.0,aaCBRj8zBrw,39.0,41.0,"[[14.25891, 19.0207]]","[[19.05406, 31.67093]]",[],slicing_sausage,False,test
+ryVzcTlGTyo_st159.0_dur40.0,ryVzcTlGTyo,159.0,40.0,[],"[[15.86739, 38.3835]]","[[38.40143, 40.04]]",slicing_sausage,False,test
+NNBBsYWS_8Y_st287.0_dur40.0,NNBBsYWS_8Y,287.0,40.0,"[[1.23267, 15.12318]]",[],"[[15.15655, 21.25021], [28.89173, 30.93718]]",slicing_banana,False,test
+xx8cn10rD0o_st90.0_dur40.0,xx8cn10rD0o,90.0,40.0,"[[6.55, 8.45158]]","[[8.48495, 10.04675]]","[[10.71405, 40]]",slicing_banana,False,test
+-e9D6WGqNqA_st895.0_dur40.0,-e9D6WGqNqA,895.0,40.0,"[[0, 18.02398]]","[[18.159, 40.00798]]",[],whipping_butter,False,test
+0QjHbyUc9iY_st134.0_dur40.0,0QjHbyUc9iY,134.0,40.0,"[[23.57065, 29.70407], [30.41749, 34.35]]","[[34.38393, 40.00798]]",[],whipping_butter,False,test
+VUzvoeB1gIw_st26.0_dur40.0,VUzvoeB1gIw,26.0,40.0,"[[8.75883, 9.58267]]","[[11.023, 12.74891], [14.21699, 18.16226], [19.61919, 24.49963], [25.94625, 27.36881], [28.76748, 31.66589], [33.11232, 34.804], [36.29008, 37.9907], [39.39563, 40.00798]]",[],browning_meat,False,test
+brANyKahttU_st91.0_dur40.0,brANyKahttU,91.0,40.0,"[[1.70949, 4.8694]]","[[4.9094, 9.31481], [12.94063, 15.67593], [19.63218, 24.68136], [26.62315, 29.42423]]",[],browning_meat,False,test
+SWKAOONg7c4_st131.0_dur40.0,SWKAOONg7c4,131.0,40.0,[],"[[0, 17.7]]","[[17.99999, 40.00798]]",browning_turkey,False,test
+kWeDT808H9E_st25.0_dur40.0,kWeDT808H9E,25.0,40.0,"[[9.85366, 14.84763]]","[[21.44547, 26.45351], [30.40464, 38.77602]]",[],browning_turkey,False,test
+RDFthEH4VBQ_st146.0_dur41.0,RDFthEH4VBQ,146.0,41.0,"[[0, 16.86203]]","[[17.70341, 41.00644]]",[],grating_cucumber,False,test
+VjuCLMS97w8_st80.0_dur45.0,VjuCLMS97w8,80.0,45.0,"[[0, 14.61077]]","[[14.71086, 26.86136]]","[[28.30429, 45.01163]]",grating_cucumber,False,test
+gMzcll9aJoo_st86.0_dur40.0,gMzcll9aJoo,86.0,40.0,"[[14.71647, 16.05174]]","[[16.05174, 17.5703]]","[[17.5703, 18.01715], [19.93049, 21.34865], [25.98634, 40.00798]]",chopping_potato,False,test
+WR6GE-mteHM_st136.0_dur40.0,WR6GE-mteHM,136.0,40.0,"[[13.31667, 13.94998]]","[[18.31653, 26.83333], [32.63332, 40]]",[],chopping_potato,False,test
+9iww_BSJbKA_st111.0_dur40.0,9iww_BSJbKA,111.0,40.0,"[[0, 6.66063]]","[[11.46924, 19.43346]]","[[19.56693, 40.04004]]",squeezing_spinach,False,test
+BV3twUnluuU_st47.0_dur40.0,BV3twUnluuU,47.0,40.0,"[[0, 14.31], [14.62999, 18.793]]","[[18.83331, 22.32]]","[[22.34667, 40]]",squeezing_spinach,False,test
+GFD-3KX19G0_st40.0_dur40.0,GFD-3KX19G0,40.0,40.0,"[[0, 20.15423], [20.5296, 21.32206]]","[[21.36376, 27.19738]]",[],zesting_lime,False,test
+ac7Q7dZS3ck_st479.0_dur40.0,ac7Q7dZS3ck,479.0,40.0,"[[9.06679, 11.91911], [13.88729, 16.13572]]","[[19.50679, 28.60145]]","[[33.77491, 39.94125]]",zesting_lime,False,test
+mFmQCqCYL7c_st156.0_dur40.0,mFmQCqCYL7c,156.0,40.0,"[[4.94302, 5.6653], [16.87034, 23.74029]]","[[23.77362, 40.00798]]",[],sauteing_celery,False,test
+GQuUW_MjffI_st116.0_dur40.0,GQuUW_MjffI,116.0,40.0,"[[18.60187, 20.02]]","[[20.0617, 40.04]]",[],sauteing_celery,False,test
+4l4bjA7tkt8_st237.0_dur40.0,4l4bjA7tkt8,237.0,40.0,[],"[[0.04, 18.25254]]","[[18.29254, 40.00798]]",rolling_bread,False,test
+Mk1IFDR2A6I_st77.0_dur40.0,Mk1IFDR2A6I,77.0,40.0,"[[10.99671, 33.83636]]","[[33.83636, 40.00821]]",[],rolling_bread,False,test
+3rgesR_Akbs_st0.0_dur40.0,3rgesR_Akbs,0.0,40.0,"[[3.04114, 4.99574]]","[[5.0291, 17.007]]","[[17.04067, 23.02357]]",peeling_prawn,False,test
+adLjNuZGxo8_st225.0_dur40.0,adLjNuZGxo8,225.0,40.0,[],"[[6.37629, 20.747]]","[[20.7799, 39.01008]]",peeling_prawn,False,test
+B28GrC9Q-bg_st5.0_dur40.0,B28GrC9Q-bg,5.0,40.0,"[[15.11666, 15.98627], [16.46626, 20.69774], [21.11574, 23.43235]]","[[23.47235, 40.00798]]",[],peeling_orange,False,test
+quf5Xz6Mkvo_st180.0_dur40.0,quf5Xz6Mkvo,180.0,40.0,"[[1.83666, 5.89235], [8.68202, 14.61426]]","[[14.65426, 37.30427]]",[],peeling_orange,False,test
+PpEqfWAxhXs_st143.0_dur40.0,PpEqfWAxhXs,143.0,40.0,"[[13.17643, 15.61573]]","[[18.0859, 22.01155], [23.36875, 25.08972]]","[[32.4065, 38.40204]]",shredding_pork,False,test
+O0WKoh76UaI_st77.0_dur40.0,O0WKoh76UaI,77.0,40.0,"[[26.69644, 27.10922]]","[[27.13244, 34.75529], [35.15001, 40.00798]]",[],shredding_pork,False,test
+v7nGWU4JCM0_st68.0_dur40.0,v7nGWU4JCM0,68.0,40.0,"[[0, 9.538]]","[[10.20549, 13.282]]","[[13.86624, 18.991]]",chopping_zucchini,False,test
+xwvZ1kfHqN8_st11.0_dur40.0,xwvZ1kfHqN8,11.0,40.0,"[[13.2595, 14.30219]]","[[14.3439, 15.44897]]","[[17.50979, 19.16214]]",chopping_zucchini,False,test
+JY_1YUHnpyw_st26.0_dur40.0,JY_1YUHnpyw,26.0,40.0,"[[1.97665, 11.06023], [12.4479, 19.09107]]","[[19.86356, 20.68609]]","[[20.72609, 26.54387]]",chopping_chili,False,test
+5PJ7mwm0gH8_st40.0_dur40.0,5PJ7mwm0gH8,40.0,40.0,"[[3.22099, 21.25381], [29.6921, 33.35881]]","[[34.20851, 40.04]]",[],chopping_chili,False,test
+g1d1W8RptiQ_st167.0_dur40.0,g1d1W8RptiQ,167.0,40.0,"[[12.68457, 23.45225]]","[[23.49396, 26.70713]]","[[26.79054, 40.04]]",shredding_cheese,False,test
+zMTuMAjozCE_st44.0_dur40.0,zMTuMAjozCE,44.0,40.0,"[[14.799, 17.34625]]","[[17.74625, 29.65415]]",[],shredding_cheese,False,test
+63QeyJ4Y0Oo_st19.0_dur40.0,63QeyJ4Y0Oo,19.0,40.0,"[[0, 2.44332], [3.95, 6.02994], [7.94333, 22.10666]]","[[22.1536, 26.99]]","[[27.03, 30.62333], [31.46333, 34.44999]]",chopping_scallion,False,test
+qq5Z3MlB_2c_st135.0_dur40.0,qq5Z3MlB_2c,135.0,40.0,[],"[[15.63426, 20.96233]]","[[21.00233, 24.76085], [35.05333, 40.00798]]",chopping_scallion,False,test
+Yp08lvVbt24_st82.0_dur40.0,Yp08lvVbt24,82.0,40.0,"[[11.74992, 13.59999]]","[[13.63336, 40.00798]]",[],frying_beef,False,test
+v0W7LlIK8Gg_st237.0_dur40.0,v0W7LlIK8Gg,237.0,40.0,[],"[[4.44033, 33.64198]]","[[33.72531, 40.00798]]",frying_beef,False,test
+zVXh9WDvit4_st143.0_dur40.0,zVXh9WDvit4,143.0,40.0,"[[0, 28.69991]]","[[28.78333, 40.04]]",[],roasting_vegetable,False,test
+hxLaoG6iX7M_st84.0_dur40.0,hxLaoG6iX7M,84.0,40.0,"[[0, 35.25205]]","[[35.28542, 40.00798]]",[],roasting_vegetable,False,test
+-ue9RRL_1YA_st392.0_dur40.0,-ue9RRL_1YA,392.0,40.0,"[[0, 16.99398]]","[[17.02735, 21.92957]]","[[21.96293, 24.11887]]",slicing_steak,False,test
+gHt-5k2d-vY_st40.0_dur40.0,gHt-5k2d-vY,40.0,40.0,"[[0.19898, 12.2824]]","[[16.19643, 22.3032]]",[],slicing_steak,False,test
+W7eb_R-66FQ_st26.0_dur40.0,W7eb_R-66FQ,26.0,40.0,[],"[[26.05149, 37.48317]]","[[37.52317, 39.27242]]",mincing_garlic,False,test
+quem5X-YV_4_st86.0_dur40.0,quem5X-YV_4,86.0,40.0,"[[12.48333, 32.76288]]","[[32.79621, 37.44476]]","[[37.478, 40.00798]]",mincing_garlic,False,test
+Xsc3WN0bVEA_st92.0_dur40.0,Xsc3WN0bVEA,92.0,40.0,"[[0, 18.40906]]","[[18.44906, 37.21376]]",[],slicing_cucumber,False,test
+jTdZwYbtA6c_st357.0_dur40.0,jTdZwYbtA6c,357.0,40.0,[],"[[15.04316, 16.74312]]","[[17.04311, 30.67893], [33.20739, 40.00798]]",slicing_cucumber,False,test
+-hKJ4_OLuek_st50.0_dur40.0,-hKJ4_OLuek,50.0,40.0,"[[16.0663, 18.11931]]",[],"[[33.83343, 36.29425]]",slicing_bacon,False,test
+w97zD6hr9gw_st7.0_dur40.0,w97zD6hr9gw,7.0,40.0,"[[15.48352, 16.38437]]","[[16.41774, 22.90022]]","[[27.73368, 32.9334], [35.68333, 35.98363]]",slicing_bacon,False,test
+joM2W46SMy0_st225.0_dur40.0,joM2W46SMy0,225.0,40.0,[],"[[16.082, 18.266]]","[[18.307, 33.93259], [37.12537, 40.04]]",peeling_lemon,False,test
+XKvl7L6TUz4_st88.0_dur40.0,XKvl7L6TUz4,88.0,40.0,"[[0, 1.62666], [4.36333, 20.383]]","[[20.42333, 40.00798]]",[],peeling_lemon,False,test
+A7qqrqALzJw_st31.0_dur40.0,A7qqrqALzJw,31.0,40.0,"[[18.73826, 20.06827]]","[[22.43362, 28.10107]]",[],sauteing_garlic,False,test
+J6ORlDCxhVc_st49.0_dur40.0,J6ORlDCxhVc,49.0,40.0,"[[7.93329, 9.02875]]","[[9.06208, 40.00798]]",[],sauteing_garlic,False,test
+LXDAu8DnALw_st41.0_dur40.0,LXDAu8DnALw,41.0,40.0,"[[8.75999, 13.60702]]",[],"[[13.60702, 20.20479]]",roasting_pumpkin,False,test
+RPGBMkN-_Ys_st67.0_dur40.0,RPGBMkN-_Ys,67.0,40.0,"[[0, 13.90786], [16.18071, 19.32579]]",[],"[[21.52347, 29.93074]]",roasting_pumpkin,False,test
+Iv-qfNzO6qQ_st58.0_dur40.0,Iv-qfNzO6qQ,58.0,40.0,"[[0, 7.54331], [12.52276, 13.97054], [15.41156, 19.92807], [22.01287, 23.05684], [24.1238, 24.6038]]","[[24.6438, 37.49334]]","[[39.73332, 40.00798]]",roasting_cauliflower,False,test
+WLqtGRpZzrg_st67.0_dur40.0,WLqtGRpZzrg,67.0,40.0,"[[0, 30.35978]]","[[30.40622, 40]]",[],browning_chicken,False,test
+On6W8Q55H_k_st136.0_dur40.0,On6W8Q55H_k,136.0,40.0,"[[7.198, 17.487]]","[[17.521, 30.035], [34.578, 40.00798]]",[],browning_chicken,False,test
+WfnJo8NjXH8_st91.0_dur40.0,WfnJo8NjXH8,91.0,40.0,"[[0, 26.877]]",[],"[[34.50538, 40.00798]]",roasting_garlic,False,test
+1lG1aD509bU_st149.0_dur40.0,1lG1aD509bU,149.0,40.0,"[[0, 4.76493]]",[],"[[9.09097, 40.00798]]",roasting_garlic,False,test
+ptA3fdtd_rs_st44.0_dur40.0,ptA3fdtd_rs,44.0,40.0,"[[0, 8.01008]]","[[16.40168, 20.73696]]","[[20.77029, 40.00798]]",chopping_celery,False,test
+NiTOnc5x3cs_st17.0_dur40.0,NiTOnc5x3cs,17.0,40.0,[],"[[21.28334, 23.90217]]","[[26.37737, 40.00798]]",chopping_celery,False,test
+XuXToUN3Gkw_st143.0_dur40.0,XuXToUN3Gkw,143.0,40.0,[],"[[11.28389, 21.0519]]","[[21.09361, 26.40114]]",roasting_corn,False,test
+EQ7SCU11Dj4_st37.0_dur40.0,EQ7SCU11Dj4,37.0,40.0,"[[17.32348, 19.55148]]","[[19.59148, 22.21351]]","[[31.97561, 37.64588]]",roasting_tomato,False,test
+2a7f000vrcs_st201.0_dur74.0,2a7f000vrcs,201.0,74.0,"[[3.46955, 11.24901]]","[[14.01792, 27.17613], [31.10558, 46.54997]]",[],roasting_tomato,False,test
+jqluz9ReqJ0_st275.0_dur40.0,jqluz9ReqJ0,275.0,40.0,"[[0, 8.16667]]",[],"[[16.35896, 27.91667]]",roasting_pepper,False,test
+b0kkdEzPuEw_st37.0_dur40.0,b0kkdEzPuEw,37.0,40.0,[],"[[16.51333, 21.5163]]","[[21.76666, 34.16867]]",roasting_pepper,False,test
+wY9FX1Lo0tw_st49.0_dur40.0,wY9FX1Lo0tw,49.0,40.0,"[[15.73333, 24.08667]]",[],"[[29.26333, 39.17]]",mincing_meat,False,test
+BnwG8akguSM_st359.0_dur40.0,BnwG8akguSM,359.0,40.0,[],"[[0, 14.4136]]","[[14.44696, 35.23568]]",whipping_potato,False,test
+am0IRnrHAXc_st143.0_dur40.0,am0IRnrHAXc,143.0,40.0,"[[0, 36.4]]","[[36.43333, 40.00798]]",[],whipping_potato,False,test
+ZwnPDYAN7Bo_st56.0_dur40.0,ZwnPDYAN7Bo,56.0,40.0,"[[16.30174, 19.71676]]","[[19.81685, 22.31613], [24.90097, 28.36685]]","[[28.46694, 40.00798]]",squeezing_grapefruit,False,test
+5KBBl5yxWqo_st50.0_dur40.0,5KBBl5yxWqo,50.0,40.0,"[[11.601, 13.05801], [14.72628, 16.48102]]","[[17.35684, 20.48311]]","[[20.69164, 40.04]]",squeezing_grapefruit,False,test
+87SyPHoR-Xk_st220.0_dur40.0,87SyPHoR-Xk,220.0,40.0,"[[0, 5.94521]]",[],"[[22.61352, 40]]",squeezing_zucchini,False,test
+faWKHLH2XgQ_st20.0_dur40.0,faWKHLH2XgQ,20.0,40.0,"[[6.33761, 12.63821]]",[],"[[14.0304, 27.20295]]",squeezing_zucchini,False,test
+vhYIhimbrK8_st112.0_dur40.0,vhYIhimbrK8,112.0,40.0,[],"[[0.04, 6.63691]]","[[6.8769, 32.18666]]",whipping_yogurt,False,test
+uQqSYIbGuyE_st48.0_dur40.0,uQqSYIbGuyE,48.0,40.0,"[[0, 13.13745], [13.70465, 16.75851]]","[[16.79188, 30.01443]]","[[30.64837, 40.00798]]",whipping_yogurt,False,test
+s2M8WQXK9cA_st173.0_dur40.0,s2M8WQXK9cA,173.0,40.0,[],"[[0, 13.28155]]","[[21.00255, 40.00798]]",whipping_buttercream,False,test
+MLBVJYtq0IY_st138.0_dur40.0,MLBVJYtq0IY,138.0,40.0,"[[1.12778, 3.05147]]","[[3.13488, 12.38995]]","[[22.15741, 28.27657], [32.75266, 40.04]]",whipping_frosting,False,test
+7tLfBVFVW8E_st198.0_dur40.0,7tLfBVFVW8E,198.0,40.0,[],"[[0, 26.49522]]","[[27.99665, 40.00794]]",whipping_frosting,False,test
+ev7JZHQHqZg_st101.0_dur40.0,ev7JZHQHqZg,101.0,40.0,"[[15.06723, 20.61731]]","[[20.65902, 28.03381]]","[[28.07552, 37.95033]]",zesting_grapefruit,False,test
+Or7oMx_xKVE_st54.0_dur40.0,Or7oMx_xKVE,54.0,40.0,"[[7.72778, 10.1743]]","[[18.1253, 23.26111]]",[],zesting_citrus,False,test
+WyLc_xzF5-c_st163.0_dur40.0,WyLc_xzF5-c,163.0,40.0,"[[0, 3.32913]]","[[3.36913, 19.72769]]","[[19.76769, 21.40989]]",zesting_citrus,False,test
+sj4E-MZ0_t4_st73.0_dur40.0,sj4E-MZ0_t4,73.0,40.0,[],"[[0.08, 1.03997], [13.15999, 21.53667], [25.32666, 29.91333], [33.69667, 36.63666]]","[[36.67666, 39.56]]",whipping_batter,False,test
+V_m2Y8B2QNQ_st144.0_dur40.0,V_m2Y8B2QNQ,144.0,40.0,"[[0, 9.44883], [11.17915, 14.10068]]","[[14.13404, 40.00798]]",[],whipping_batter,False,test
+XFh8qPm_J7Q_st240.0_dur40.0,XFh8qPm_J7Q,240.0,40.0,"[[4.85798, 5.3745]]","[[5.42258, 18.00423]]","[[18.94478, 40.00798]]",whipping_ganache,False,test
+WzxCpIrelLY_st170.0_dur40.0,WzxCpIrelLY,170.0,40.0,"[[0, 11.61406]]","[[11.64743, 24.4788]]","[[24.51217, 32.40459]]",whipping_ganache,False,test
+-5rYo38Orrw_st589.0_dur40.0,-5rYo38Orrw,589.0,40.0,"[[3.72, 14.13], [18.417, 20.441]]","[[20.483, 29.073]]",[],squeezing_cabbage,False,test
+Egib07VwDI8_st589.0_dur58.0,Egib07VwDI8,589.0,58.0,"[[0.06673, 8.73324], [10.63333, 11.16717], [13.26686, 23.5507]]",[],"[[46.05065, 58.01667]]",squeezing_cabbage,False,test
+jaX9756CaI4_st304.0_dur40.0,jaX9756CaI4,304.0,40.0,"[[0, 7.85903]]","[[7.89239, 9.41427]]","[[11.68091, 40.00798]]",mincing_scallion,False,test
+v-F0GsBq8WM_st0.0_dur40.0,v-F0GsBq8WM,0.0,40.0,"[[7.57659, 8.52186]]","[[8.55523, 14.41477]]","[[14.68169, 17.06873], [27.33359, 29.82354]]",shredding_parmesan,True,test
+t3GP-xkiRKc_st42.0_dur40.0,t3GP-xkiRKc,42.0,40.0,"[[0, 5.15], [6.04122, 13.76782]]","[[13.79104, 24.20093], [29.50619, 40.00798]]",[],mashing_berry,True,test
+S6QADzcV-mY_st74.0_dur40.0,S6QADzcV-mY,74.0,40.0,"[[0, 7.6], [9.958, 12.167]]","[[12.1889, 19.436]]","[[19.45201, 40.007]]",mashing_berry,True,test
+5OkFxj4nJ58_st73.0_dur40.0,5OkFxj4nJ58,73.0,40.0,"[[3.57571, 7.04391]]",[],"[[7.45505, 11.65152]]",peeling_shallot,True,test
+MIihsRc8Bi8_st284.0_dur40.0,MIihsRc8Bi8,284.0,40.0,"[[0, 2.66775], [3.89477, 7.21342], [14.69111, 17.86054]]","[[17.90225, 33.07876]]","[[33.12047, 34.96164], [37.55998, 40.04]]",peeling_pepper,True,test
+kkp1hQZEc-k_st84.0_dur40.0,kkp1hQZEc-k,84.0,40.0,[],"[[1.69293, 15.25214]]","[[22.27222, 28.03694], [29.49814, 40.00798]]",peeling_pepper,True,test
+lpdodfhY5xc_st85.0_dur41.0,lpdodfhY5xc,85.0,41.0,"[[0, 15.18806]]","[[15.90805, 40.60644]]","[[40.68644, 41.00644]]",slicing_celery,True,test
+7cRGeaHSVmc_st23.0_dur40.0,7cRGeaHSVmc,23.0,40.0,[],"[[15.93915, 28.25167]]","[[28.28504, 34.90645]]",grating_butter,True,test
+euHC-lgG74A_st35.0_dur40.0,euHC-lgG74A,35.0,40.0,"[[0, 0.72984]]","[[0.76984, 29.17576]]","[[29.21576, 40.00798]]",grating_butter,True,test
+nBk78ciFwCg_st10.0_dur40.0,nBk78ciFwCg,10.0,40.0,"[[7.99291, 16.73354]]","[[16.77354, 24.20001]]","[[24.24001, 40.00798]]",chopping_cauliflower,True,test
+WcuHKCqGrQY_st111.0_dur40.0,WcuHKCqGrQY,111.0,40.0,[],"[[16.88276, 26.88317]]","[[26.92317, 40.00798]]",chopping_cauliflower,True,test
+YCs1yl8f64U_st82.0_dur40.0,YCs1yl8f64U,82.0,40.0,"[[2.68874, 11.50461]]","[[12.1846, 23.05081]]","[[23.41081, 25.50165], [32.5559, 34.70124], [38.17276, 39.44798]]",chopping_capsicum,True,test
+Z_E8GSkGPg8_st247.0_dur40.0,Z_E8GSkGPg8,247.0,40.0,"[[0, 18.04161]]",[],"[[18.40827, 36.94461]]",mashing_cauliflower,True,test
+LuySEnFhalk_st109.0_dur53.0,LuySEnFhalk,109.0,53.0,"[[17.48793, 24.0901], [29.98648, 30.6198]]","[[30.65313, 32.96151]]","[[33.02818, 53.01116]]",mashing_cauliflower,True,test
+VdPqwzWeP1c_st104.0_dur40.0,VdPqwzWeP1c,104.0,40.0,"[[17.62472, 19.2945]]","[[19.32786, 40.00798]]",[],blending_coconut,True,test
+if0n8Q3gz6E_st167.0_dur40.0,if0n8Q3gz6E,167.0,40.0,[],"[[0, 10.66665]]","[[12.95, 21.46667], [29.91667, 33.53333], [33.69999, 33.83332]]",peeling_peach,True,test
+NWVVbtK1R8M_st163.0_dur40.0,NWVVbtK1R8M,163.0,40.0,"[[16.99193, 19.32681]]",[],"[[19.76055, 21.60299]]",grating_tomato,True,test
+lT38dShg94U_st3.0_dur40.0,lT38dShg94U,3.0,40.0,"[[0, 2.75474]]","[[13.41122, 25.62827]]",[],peeling_pineapple,True,test
+gYiERg0aN30_st141.0_dur40.0,gYiERg0aN30,141.0,40.0,"[[4.37153, 10.5659]]","[[13.48434, 29.5422]]","[[29.5822, 39.60798]]",crushing_pepper,True,test
+fCNDKDBEswA_st193.0_dur40.0,fCNDKDBEswA,193.0,40.0,"[[0, 19.34401]]","[[19.36723, 40.00798]]",[],chopping_almond,True,test
+SEuGGrrvC1o_st197.0_dur40.0,SEuGGrrvC1o,197.0,40.0,"[[13.24333, 21.70938]]","[[21.75105, 30.38571]]","[[30.42738, 33.556]]",chopping_almond,True,test
+qat1AJjXO1Q_st176.0_dur40.0,qat1AJjXO1Q,176.0,40.0,"[[17.8666, 18.73145]]","[[18.76482, 24.7396]]","[[25.44026, 28.67322], [37.64315, 39.57422]]",frying_cauliflower,True,test
+MIK-KBnAocc_st207.0_dur40.0,MIK-KBnAocc,207.0,40.0,[],"[[0, 13.01689]]","[[13.05025, 29.66692], [34.48337, 36.31663]]",frying_cauliflower,True,test
+cRu5IEraFpg_st204.0_dur40.0,cRu5IEraFpg,204.0,40.0,"[[11.96883, 15.53275]]","[[15.61949, 23.52853]]","[[24.75965, 27.53532]]",frying_carrot,True,test
+tL8uP5lafz8_st83.0_dur40.0,tL8uP5lafz8,83.0,40.0,[],"[[17.16774, 19.63583]]","[[19.68333, 30.40536]]",browning_sugar,True,test
+Jye_FW0Vtbw_st534.0_dur40.0,Jye_FW0Vtbw,534.0,40.0,"[[6.48051, 6.88089]]","[[6.91426, 40.00798]]",[],blending_cream,True,test
+SZZacc76jpo_st799.0_dur40.0,SZZacc76jpo,799.0,40.0,"[[0, 13.16749]]","[[13.16749, 14.61522], [16.56607, 20.76014]]","[[21.22751, 39.06102]]",frying_meat,True,test
+5ewo-a3ToNM_st568.0_dur40.0,5ewo-a3ToNM,568.0,40.0,"[[8.71666, 11.16667]]","[[12.03327, 20.58333], [21.28332, 33.51665], [35.25, 40]]",[],frying_meat,True,test
+d4rx-9ucCcM_st189.0_dur40.0,d4rx-9ucCcM,189.0,40.0,[],"[[0, 17.347]]","[[24.40846, 38.049]]",chopping_pineapple,True,test
+IP9AwQIrGdU_st0.0_dur40.0,IP9AwQIrGdU,0.0,40.0,"[[19.15493, 20.99915]]","[[21.58564, 29.506]]","[[30.1409, 40.00798]]",grilling_sausage,True,test
+rlzc1cQiEog_st42.0_dur40.0,rlzc1cQiEog,42.0,40.0,"[[1.86844, 2.51448], [6.58318, 18.11773], [20.86666, 25.399]]","[[25.56614, 30.985]]",[],shredding_mozzarella,True,test
+pek0QJw5fE4_st346.0_dur40.0,pek0QJw5fE4,346.0,40.0,[],"[[14.64918, 15.91713]]","[[15.95712, 24.9394], [26.96057, 31.1035]]",crushing_almond,True,test
+dpmOJdvgnjc_st267.0_dur40.0,dpmOJdvgnjc,267.0,40.0,"[[15.6461, 27.98081]]","[[27.99884, 38.33747]]","[[38.53702, 40.00798]]",blending_pepper,True,test
+h7vlavquuZ4_st166.0_dur40.0,h7vlavquuZ4,166.0,40.0,"[[3.33144, 17.62777]]","[[17.66114, 24.6901]]","[[25.62414, 29.30871], [34.80904, 40.00821]]",rolling_sausage,True,test
+rELT6r69Ejs_st164.0_dur40.0,rELT6r69Ejs,164.0,40.0,"[[0, 14.18209], [16.67373, 28.70671]]",[],"[[28.73028, 40]]",slicing_almond,True,test
+dv803XD7U4k_st13.0_dur40.0,dv803XD7U4k,13.0,40.0,"[[0, 7.77537], [11.53754, 18.12427]]","[[18.1576, 40.00807]]",[],slicing_lime,True,test
+gMcczEcIRSk_st256.0_dur40.0,gMcczEcIRSk,256.0,40.0,"[[0.46711, 16.58993]]","[[16.75676, 25.89435]]","[[25.96108, 32.70526]]",rolling_cheese,True,test
+vNptWPuh_w8_st130.0_dur40.0,vNptWPuh_w8,130.0,40.0,"[[0, 18.5309]]","[[18.57261, 27.86765]]","[[27.90936, 40.04]]",slicing_jalapeno,True,test
+cM8pVQxgTO8_st316.0_dur40.0,cM8pVQxgTO8,316.0,40.0,"[[0, 3.61932]]","[[3.65268, 40.00798]]",[],mashing_egg,True,test
+AJycs3Fj0rQ_st108.0_dur40.0,AJycs3Fj0rQ,108.0,40.0,"[[0, 1.05214]]","[[1.17214, 8.72942], [11.32697, 22.76935]]","[[22.88935, 24.91961], [28.84045, 35.24362]]",chopping_leek,True,test
+j3DqQlCNgKE_st525.0_dur71.0,j3DqQlCNgKE,525.0,71.0,"[[0, 58.56459]]","[[58.56459, 71.00662]]",[],slicing_orange,True,test
+sc68p2lLwoM_st91.0_dur40.0,sc68p2lLwoM,91.0,40.0,"[[0, 13.52]]","[[17.7007, 28.20662], [29.49491, 40.00798]]",[],chopping_chilies,True,test
+zLuhCfBqf5U_st23.0_dur40.0,zLuhCfBqf5U,23.0,40.0,"[[0, 2.54241], [4.27668, 6.70263], [8.94645, 11.32111]]","[[14.47965, 26.92341]]",[],grating_coconut,True,test
+vMpDiRIuPO4_st267.0_dur40.0,vMpDiRIuPO4,267.0,40.0,[],"[[15.43376, 19.20634]]","[[19.24634, 25.97374], [30.39148, 40]]",slicing_mozzarella,True,test
+dAkA2iB_pG4_st245.0_dur40.0,dAkA2iB_pG4,245.0,40.0,"[[0, 21.39166]]","[[21.43332, 28.62499]]","[[28.66665, 40]]",chopping_date,True,test
+ts6jheV_g9E_st196.0_dur40.0,ts6jheV_g9E,196.0,40.0,"[[9.421, 18.772]]","[[18.806, 40.00798]]",[],chopping_date,True,test
+WcE-uIubi5k_st112.0_dur40.0,WcE-uIubi5k,112.0,40.0,"[[14.86313, 27.37786]]","[[27.37786, 40.00798]]",[],slicing_olive,True,test
+j0C8t_sbuWA_st54.0_dur40.0,j0C8t_sbuWA,54.0,40.0,"[[8.07632, 14.55721]]","[[14.59888, 20.88816]]","[[21.05483, 32.37638]]",rolling_crust,True,test
+Dvm4-69fc_o_st218.0_dur56.0,Dvm4-69fc_o,218.0,56.0,"[[0, 11.14412]]","[[11.21085, 24.39096]]","[[24.42432, 56.02263]]",rolling_crust,True,test
+Vvj5z11iNyM_st305.0_dur40.0,Vvj5z11iNyM,305.0,40.0,"[[0.04, 3.64244]]",[],"[[33.13, 35.17448], [39.07494, 40.00798]]",browning_vegetable,True,test
+rrE7ks5zRjE_st285.0_dur40.0,rrE7ks5zRjE,285.0,40.0,"[[0, 34.35052]]",[],"[[37.73389, 40]]",blending_ginger,True,test
+kIo_RH9hFpA_st0.0_dur40.0,kIo_RH9hFpA,0.0,40.0,"[[10.98876, 15.527]]",[],"[[15.6271, 19.787]]",slicing_butter,True,test
+ye-HyFj1bzM_st45.0_dur40.0,ye-HyFj1bzM,45.0,40.0,[],"[[27.78291, 35.02155]]","[[35.06155, 38.8653]]",frying_pepper,True,test
+Osbmd_9_d4o_st121.0_dur40.0,Osbmd_9_d4o,121.0,40.0,"[[0.0154, 15.55791]]","[[15.59128, 26.09364]]","[[26.12701, 40.00798]]",chopping_butter,True,test
+VovS2FoyeBs_st319.0_dur40.0,VovS2FoyeBs,319.0,40.0,"[[15.15573, 15.572]]","[[15.61404, 34.033]]","[[34.075, 40.007]]",chopping_sausage,True,test
+oQwAUarHvUM_st1.0_dur40.0,oQwAUarHvUM,1.0,40.0,[],"[[16.62776, 21.49]]","[[22.52494, 26.909]]",grilling_shrimp,True,test
+Salt8AxXg9o_st76.0_dur40.0,Salt8AxXg9o,76.0,40.0,"[[12.08346, 16.25009]]","[[18.68333, 23.0998], [35.28395, 39.0331]]","[[39.06647, 40]]",grilling_shrimp,True,test
+oor8gtX-aww_st154.0_dur40.0,oor8gtX-aww,154.0,40.0,[],"[[9.3342, 14.98833]]","[[15.02169, 18.45812]]",grilling_pepper,True,test
+hr2vaj2XR8s_st256.0_dur40.0,hr2vaj2XR8s,256.0,40.0,"[[19.20677, 21.01487]]","[[23.97634, 26.40993]]","[[26.44993, 31.88193]]",blending_avocado,True,test
+5E8HJ8fuBzg_st203.0_dur40.0,5E8HJ8fuBzg,203.0,40.0,"[[7.98333, 13.45]]","[[13.48333, 22.75]]","[[22.78333, 29.25], [32.63333, 34.38333], [37.08333, 37.8]]",slicing_ham,True,test
+i6iz7cUPp4s_st67.0_dur40.0,i6iz7cUPp4s,67.0,40.0,"[[0, 13.05143], [13.55192, 17.98271]]","[[18.60923, 20.72759]]","[[20.7693, 25.57598], [26.20159, 36.53968], [37.12657, 40.04]]",peeling_kiwi,True,test
+cKUT51otKC4_st178.0_dur40.0,cKUT51otKC4,178.0,40.0,[],"[[0, 4.41922], [14.41277, 31.19767]]","[[31.23767, 40.00798]]",browning_bread,True,test
+0v2r84JqAIw_st177.0_dur40.0,0v2r84JqAIw,177.0,40.0,"[[11.10315, 12.98819], [14.03616, 15.17961], [15.8976, 17.20689]]","[[17.94742, 21.55295], [25.40871, 26.12974], [26.85718, 29.16004], [32.20634, 35.12377], [39.6631, 40.04]]",[],coating_onion,True,test
+tLffNI3oJT8_st161.0_dur40.0,tLffNI3oJT8,161.0,40.0,[],"[[0, 7.77512]]","[[7.9977, 13.76982], [14.47048, 17.85676]]",frying_steak,True,test
+5jxdatiUbPw_st135.0_dur54.0,5jxdatiUbPw,135.0,54.0,"[[0.58824, 43.26214]]","[[51.6044, 54.02063]]",[],frying_steak,True,test
+OmRzW27Wpjw_st79.0_dur40.0,OmRzW27Wpjw,79.0,40.0,"[[24.38665, 26.10143]]","[[26.14143, 32.66918]]","[[32.70918, 34.31333]]",grating_cauliflower,True,test
+H4UYBjJlc8A_st4.0_dur40.0,H4UYBjJlc8A,4.0,40.0,"[[10.50079, 13.33182]]","[[13.36518, 40.00798]]",[],coating_butter,True,test
+nP0G5_yxams_st11.0_dur40.0,nP0G5_yxams,11.0,40.0,"[[25.9875, 29.16167]]",[],"[[32.44068, 40.00798]]",grilling_cheese,True,test
+UlUA_Pi_aXY_st60.0_dur40.0,UlUA_Pi_aXY,60.0,40.0,"[[0, 0.37444], [1.6107, 5.59878], [11.03615, 15.69074]]","[[15.7241, 40.00798]]",[],roasting_mushroom,True,test
+XSisgne5jcw_st147.0_dur40.0,XSisgne5jcw,147.0,40.0,"[[0, 11.42184]]",[],"[[11.45521, 40.00798]]",roasting_squash,True,test
+_nDbT4BIBTE_st388.0_dur40.0,_nDbT4BIBTE,388.0,40.0,"[[14.99285, 16.88884]]","[[16.91206, 18.69911]]","[[18.72233, 40.00798]]",chopping_olive,True,test
+pDqjY2-LBv0_st213.0_dur40.0,pDqjY2-LBv0,213.0,40.0,"[[1.70031, 4.809]]","[[4.90661, 17.262]]","[[17.63465, 20.133]]",shredding_coconut,True,test
+OOWp-IguiEE_st84.0_dur40.0,OOWp-IguiEE,84.0,40.0,"[[0, 14.28333]]","[[15.52605, 40.04]]",[],grilling_potato,True,test
+nYJJvqWcgvA_st102.0_dur40.0,nYJJvqWcgvA,102.0,40.0,"[[0, 9.76697]]","[[10.34499, 22.56546], [34.61527, 40.00798]]",[],grilling_potato,True,test
+S8mOR31Iez8_st306.0_dur53.0,S8mOR31Iez8,306.0,53.0,"[[6.92617, 8.28749]]","[[8.32906, 27.84076]]","[[27.87413, 53.01963]]",zesting_clementine,True,test
+C1HdMZ1E-BA_st40.0_dur40.0,C1HdMZ1E-BA,40.0,40.0,"[[8.54916, 23.21569]]","[[23.31622, 25.59033]]","[[29.52455, 34.76996]]",squeezing_tofu,True,test
+1uaB6fDN0AM_st47.0_dur40.0,1uaB6fDN0AM,47.0,40.0,"[[15.3834, 18.75006]]","[[19.01698, 20.18275]]","[[20.88341, 23.86641]]",squeezing_onion,True,test
+o01ON6u2HNI_st101.0_dur40.0,o01ON6u2HNI,101.0,40.0,[],"[[0, 11.45098]]","[[11.48435, 11.98773], [12.68839, 40.00798]]",whipping_meringue,True,test
+FA04J1HflVk_st173.0_dur40.0,FA04J1HflVk,173.0,40.0,"[[23.77694, 26.87527]]","[[26.91527, 34.34933], [36.86393, 40.00798]]",[],sauteing_chicken,True,test
+upfxCuXHcho_st15.0_dur40.0,upfxCuXHcho,15.0,40.0,"[[13.57998, 14.37997]]","[[26.49997, 40.00798]]",[],squeezing_ginger,True,test
+x7iFRiDOa5M_st600.0_dur40.0,x7iFRiDOa5M,600.0,40.0,[],"[[16.32332, 23.73763], [24.85761, 28.25416]]","[[28.29, 40.00789]]",whipping_mascarpone,True,test
+BmCMpzB0IJ4_st109.0_dur40.0,BmCMpzB0IJ4,109.0,40.0,"[[0, 0.54219], [3.11847, 5.97858], [15.18935, 16.09257], [18.41535, 34.54426]]","[[34.62768, 37.13829]]","[[37.22171, 40.04]]",mincing_tomato,True,test
+iluvAxMbc2E_st100.0_dur40.0,iluvAxMbc2E,100.0,40.0,[],"[[14.33334, 25.71833]]","[[25.98499, 30.16324]]",sauteing_shrimp,True,test
+kTGMz1mQRaI_st185.0_dur50.0,kTGMz1mQRaI,185.0,50.0,"[[0, 13.90059]]","[[14.23424, 35.83772]]","[[37.60611, 50.01663]]",coating_pasta,True,test
+y5zOuTO9gQM_st5.0_dur40.0,y5zOuTO9gQM,5.0,40.0,"[[5.88091, 17.37761]]","[[17.49761, 24.68119]]","[[30.98429, 40.00798]]",squeezing_cucumber,True,test
+mWZzGYo8ER0_st51.0_dur40.0,mWZzGYo8ER0,51.0,40.0,"[[0, 32.89958]]","[[32.9228, 40]]",[],sauteing_potato,True,test
+LKcTAr_-alg_st45.0_dur40.0,LKcTAr_-alg,45.0,40.0,"[[16.10216, 18.25405]]","[[18.25405, 23.63665]]",[],sauteing_spinach,True,test

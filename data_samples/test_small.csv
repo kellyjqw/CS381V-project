@@ -1,0 +1,4 @@
+video_name,video_id,start_time,duration,initial_state,transitioning_state,end_state,osc,is_novel_osc
+WCXnawtLaQw_st51.0_dur40.0,WCXnawtLaQw,51,40,"[[0, 13.02314], [13.82312, 15.48971]]","[[15.55637, 18.14173], [25.62308, 28.12489], [30.24844, 35.36066], [39.1124, 40.00798]]",[],rolling_pasta,FALSE
+fxrazSaidAw_st137.0_dur63.0,fxrazSaidAw,137,63,[],"[[0, 9.09262], [19.79758, 32.77285]]","[[32.77285, 36.28454], [40.729, 63.01896]]",rolling_pasta,FALSE
+WB8o7y_BxYM_st390.0_dur40.0,WB8o7y_BxYM,390,40,[],"[[0, 7.76766]]","[[7.80937, 36.6752]]",rolling_pasta,FALSE
