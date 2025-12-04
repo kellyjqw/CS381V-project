@@ -1,5 +1,6 @@
+from cgi import print_form
 import tqdm
-from dataloader import HowToChangeDatasetBatched
+from dataloader import HowToChangeDatasetBatched, custom_collate
 import torch
 from model import OTSC_Model
 from evaluator import Evaluator
@@ -32,7 +33,7 @@ def run_video(model, batch_data, device, descriptions_dict):
     labels_all = batch_data["labels"].to(device)
     lengths = batch_data["lengths"].to(device)
     osc_names = batch_data["osc"]
-    fps = batch_data["fps"]
+    fps = batch_data["fps"][0]
     duration = batch_data["durations"]
 
     B, Max_T = frames_all.shape[:2]
@@ -64,6 +65,17 @@ def run_video(model, batch_data, device, descriptions_dict):
     hidden_state = hidden_state.detach()
     return batch_preds, batch_gts
 
+
+def load_descriptions():
+    desc_path = "/home/ubuntu/sc381v-proj/CS381V-project/data_samples/multiclass_descriptions.json"
+    if os.path.exists(desc_path):
+        with open(desc_path, "r") as f:
+            descriptions_dict = json.load(f)
+        print(f"Loaded {len(descriptions_dict)} descriptions.")
+    else:
+        descriptions_dict = {}
+        print(f"NOT LOADING DESCRIPTIONS, USING DEFAULT")
+
 device = None
 if hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
     device = torch.device("mps")
@@ -72,17 +84,19 @@ elif torch.cuda.is_available():
     print("using GPU")
 else:
     device = torch.device("cpu")
-desc_path = "descriptions.json"
-if os.path.exists(desc_path):
-    with open(desc_path, "r") as f:
-        descriptions_dict = json.load(f)
-    print(f"Loaded {len(descriptions_dict)} descriptions.")
-else:
-    descriptions_dict = {}
+
+
+descriptions_dict = load_descriptions()
+
 dataset = HowToChangeDatasetBatched(split="test")
 dataloader = DataLoader(dataset, batch_size=1, shuffle=False, collate_fn=custom_collate)
 E = Evaluator(end_label=2, out_dir="results")
-model = OTSC_Model()  
+model = OTSC_Model() 
+# ckpt_path = "/lambda/nfs/sc381v-proj"
+ckpt_path = "/home/ubuntu/sc381v-proj/CS381V-project/checkpoints2/model_state_3805.pth"
+ckpt = torch.load(ckpt_path, map_location=device)
+model.load_state_dict(ckpt) 
+model.to(device)
 model.eval()
 i = 0
 torch.set_printoptions(threshold=torch.inf, precision=2, sci_mode=False) 
@@ -93,8 +107,14 @@ with torch.no_grad():
     # for batch in test_dataset:
         is_novel = data["is_novel"][0]
         preds, gts = run_video(model ,data, device, descriptions_dict)
-        pred = preds[0]
-        gt = gts[0]
+        pred = torch.tensor(preds[0])
+        gt = torch.tensor(gts[0])
+        video_name = data["video_name"][0]
+        osc=data["osc"][0]
+        # print(f"{video_name=}, {osc=}, {is_novel=}, {type(is_novel)}")
+        # print(f"{pred=}")
+        # print(f"  {gt=}")
+
         pred_bin = E.bin(pred)
         gt_bin = E.bin(gt)
         E.record_bin_metrics(pred_bin, gt_bin, is_novel)
@@ -102,9 +122,10 @@ with torch.no_grad():
         E.record_IoU(pred, gt, is_novel)
         E.record_framediff(pred, gt, is_novel)
 
+
         # break
         # i+= 1
-        # if i % 300 == 0:
-        #     E.save_result()
+        # if i == 8:
+        #     print(E.end_state_metrics)
         #     break
 E.save_result()

@@ -17,6 +17,8 @@ class Evaluator():
         # self.tern_rec = MulticlassRecall(num_classes=3, average="none")
         self.out_dir = out_dir
         self.tern_f1 = MulticlassF1Score(num_classes=3, average="none")
+        self.tern_f1_micro = MulticlassF1Score(num_classes=3, average="micro")
+
         self.end_label = end_label
         self.end_state_metrics = {
             'first_frame_diff': {'known': [], 'novel': []},
@@ -32,7 +34,8 @@ class Evaluator():
             'f1_0': {'known': [], 'novel': []},
             'f1_1': {'known': [], 'novel': []},
             'f1_2': {'known': [], 'novel': []},
-            'f1_all': {'known': [], 'novel': []}
+            'f1_macro': {'known': [], 'novel': []},
+            'f1_micro': {'known': [], 'novel': []}
         } 
 
     def bin(self, x):
@@ -46,7 +49,7 @@ class Evaluator():
         return out
 
     def record_bin_metrics(self, pred_bin, gt_bin, is_novel, eps=1e-08):
-        N = label.numel()
+        N = gt_bin.numel()
 
         tp = ((pred_bin == 1) & (gt_bin == 1)).sum().float()
         fp = ((pred_bin == 1) & (gt_bin == 0)).sum().float()
@@ -65,11 +68,14 @@ class Evaluator():
     
     def record_tern_metrics(self, pred, gt, is_novel):
         f1 = self.tern_f1(pred, gt)
+        f1_micro = self.tern_f1_micro(pred, gt)
         k = "novel" if is_novel else "known"
         self.end_state_metrics["f1_0"][k].append(f1[0].item())
         self.end_state_metrics["f1_1"][k].append(f1[1].item())
         self.end_state_metrics["f1_2"][k].append(f1[2].item())
-        self.end_state_metrics["f1_all"][k].append(f1.mean().item())
+        self.end_state_metrics["f1_macro"][k].append(f1.mean().item())
+        self.end_state_metrics["f1_micro"][k].append(f1_micro.item())
+
 
         num_correct = (pred == gt).sum().item()
         num_total = gt.numel()

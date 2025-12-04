@@ -95,7 +95,7 @@ class HowToChangeDatasetBatched(Dataset):
             "duration": duration,
             "video_name": row["video_name"],
             "video_id": row["video_id"],
-            "is_novel": (row["is_novel_osc"] == "True")
+            "is_novel": row["is_novel_osc"]
         }
 
 def custom_collate(batch):
