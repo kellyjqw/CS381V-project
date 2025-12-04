@@ -68,13 +68,16 @@ def run_video(model, batch_data, device, descriptions_dict):
 
 def load_descriptions():
     desc_path = "/home/ubuntu/sc381v-proj/CS381V-project/data_samples/multiclass_descriptions.json"
+    descriptions_dict = {}
+
     if os.path.exists(desc_path):
         with open(desc_path, "r") as f:
             descriptions_dict = json.load(f)
         print(f"Loaded {len(descriptions_dict)} descriptions.")
     else:
-        descriptions_dict = {}
         print(f"NOT LOADING DESCRIPTIONS, USING DEFAULT")
+    return descriptions_dict
+    
 
 device = None
 if hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
