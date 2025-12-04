@@ -24,3 +24,15 @@ Dataset considertaions (no need to fix):
 - there are also irrelevant frames.
 
 
+results
+
+| Method                    | Acc. (%) ↑ | End-state F1 (%) ↑ | End-state IoU (%) ↑ | Onset error (s) ↓ |
+|---------------------------|-----------:|-------------------:|--------------------:|------------------:|
+| VidOSC (multitask)       |      38.07 |               1.37 |                1.64 |             10.73 |
+| VidOSC (single task)     |      53.15 |              31.51 |               36.91 |             10.60 |
+| —                         |           |                   |                    |                  |
+| Ours                     |      49.50 |              31.25 |               36.92 |              8.18 |
+| Ours (+ LLM description) |        –   |                 –  |                  –  |                –  |
+
+
+
