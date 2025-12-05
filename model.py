@@ -43,16 +43,16 @@ class OTSC_Model(nn.Module):
 
     def get_text_features_batch(self, osc_names_list, descriptions_dict):
         batch_prompts = []
-
         for osc in osc_names_list:
-            default_desc = {
-                "progress_description": f"Start and in-progress state of {osc.replace('_', ' ')}.",
-                "finished_description": f"Finished state of {osc.replace('_', ' ')}."
-            }
-            desc = descriptions_dict.get(osc, default_desc)
-            batch_prompts.append(f"{desc.get('initial_description', '')}")
-            batch_prompts.append(f"Transitioning: {desc.get('transition_description', '')}")
-            batch_prompts.append(f"{desc.get('finished_description', '')}")
+            if not osc in descriptions_dict:
+                batch_prompts.append(f"Initial state: Start and in-progress state of {osc.replace('_', ' ')}")
+                batch_prompts.append(f"Transitioning: Start and in-progress state of {osc.replace('_', ' ')}")
+                batch_prompts.append(f"Final state: Finished state of {osc.replace('_', ' ')}")
+            else:
+                desc = descriptions_dict.get(osc)
+                batch_prompts.append(f"{desc.get('initial_description', '')}")
+                batch_prompts.append(f"Transitioning: {desc.get('transition_description', '')}")
+                batch_prompts.append(f"{desc.get('finished_description', '')}")
 
         inputs = self.processor(
             text=batch_prompts,
