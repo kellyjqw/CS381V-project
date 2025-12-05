@@ -18,6 +18,8 @@ class Evaluator():
         self.out_dir = out_dir
         self.tern_f1 = MulticlassF1Score(num_classes=3, average="none")
         self.tern_f1_micro = MulticlassF1Score(num_classes=3, average="micro")
+        self.tern_prec = MulticlassPrecision(num_classes=3, average="none")
+        self.tern_prec_micro = MulticlassPrecision(num_classes=3, average="micro")
 
         self.end_label = end_label
         self.end_state_metrics = {
@@ -35,7 +37,14 @@ class Evaluator():
             'f1_1': {'known': [], 'novel': []},
             'f1_2': {'known': [], 'novel': []},
             'f1_macro': {'known': [], 'novel': []},
-            'f1_micro': {'known': [], 'novel': []}
+            'f1_micro': {'known': [], 'novel': []},
+            'prec_0': {'known': [], 'novel': []},
+            'prec_1': {'known': [], 'novel': []},
+            'prec_2': {'known': [], 'novel': []},
+            'prec_avg': {'known': [], 'novel': []},
+            'prec_micro': {'known': [], 'novel': []},
+
+
         } 
 
     def bin(self, x):
@@ -75,7 +84,13 @@ class Evaluator():
         self.end_state_metrics["f1_2"][k].append(f1[2].item())
         self.end_state_metrics["f1_macro"][k].append(f1.mean().item())
         self.end_state_metrics["f1_micro"][k].append(f1_micro.item())
-
+        prec = self.tern_prec(pred, gt)
+        prec_micro = self.tern_prec_micro(pred, gt)
+        self.end_state_metrics["prec_0"][k].append(prec[0].item())
+        self.end_state_metrics["prec_1"][k].append(prec[1].item())
+        self.end_state_metrics["prec_2"][k].append(prec[2].item())
+        self.end_state_metrics["prec_avg"][k].append(prec.mean().item())
+        self.end_state_metrics["prec_micro"][k].append(prec_micro.item())
 
         num_correct = (pred == gt).sum().item()
         num_total = gt.numel()

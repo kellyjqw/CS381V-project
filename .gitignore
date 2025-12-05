@@ -1,0 +1,5 @@
+VidOSC_eval/
+.DS_Store
+temp.py
+__pycache__/
+.vscode

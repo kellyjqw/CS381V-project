@@ -50,9 +50,9 @@ class OTSC_Model(nn.Module):
                 "finished_description": f"Finished state of {osc.replace('_', ' ')}."
             }
             desc = descriptions_dict.get(osc, default_desc)
-            batch_prompts.append(f"Initial state: {desc.get('progress_description', '')}")
-            batch_prompts.append(f"Transitioning: {desc.get('progress_description', '')}")
-            batch_prompts.append(f"Final state: {desc.get('finished_description', '')}")
+            batch_prompts.append(f"{desc.get('initial_description', '')}")
+            batch_prompts.append(f"Transitioning: {desc.get('transition_description', '')}")
+            batch_prompts.append(f"{desc.get('finished_description', '')}")
 
         inputs = self.processor(
             text=batch_prompts,
