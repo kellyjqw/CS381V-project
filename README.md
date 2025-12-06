@@ -1,4 +1,6 @@
-cropped clips: https://drive.google.com/drive/folders/1ujTZVVF3wu4D-EVI4HizOYifXGznEsB5?usp=drive_link 
+![Online Frame-wise Object State Change Classification](downstream/teaser_ostc.png)
+
+[cropped clips](https://drive.google.com/drive/folders/1ujTZVVF3wu4D-EVI4HizOYifXGznEsB5?usp=drive_link)
 
 dataloader usage:
 ```python
